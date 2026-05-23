@@ -1,0 +1,44 @@
+{
+  "title": "Autonomous Structural Intelligence (ASI): From Point Prediction to Structure Prediction",
+  "description": "Autonomous Structural Intelligence (ASI) explores a structural-runtime direction for next-generation AI systems. Traditional AI systems are largely dominated by learn-points → predict-points paradigms. ASI investigates the transition toward learn-structures → predict-structures → navigate-structures → evolve-structural-runtimes.\n\nThis repository presents the first executable ASI runtime MVP skeleton, including:\n\n1. Vertical-Gap Go-Around Runtime\n2. Elastic Trajectory IR\n3. Elastic Segment Merge\n4. Structure Prediction Runtime\n\nTogether, these MVPs demonstrate a first ASI runtime loop:\n\nObserve Structures → Compress Structures → Navigate Structures → Predict Structures → Evolve Structures.\n\nThe repository includes Java runtime skeletons, Maven build support, JUnit4 validation tests, Markdown experiment trace generation, and runtime-oriented structural intelligence primitives.\n\nASI builds on DBM-SI foundations including CCC, CGCCC, SOS, PDS, Two-Phases Search, Differential Trees, and Trajectory Intelligence, while focusing on executable structural runtime evolution.",
+  "creators": [
+    {
+      "name": "Tan, Sizhe",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "keywords": [
+    "Artificial Intelligence",
+    "Structural Intelligence",
+    "Autonomous Structural Intelligence",
+    "DBM-SI",
+    "Structure Prediction",
+    "Trajectory Intelligence",
+    "Elastic IR",
+    "Differential Tree",
+    "Two-Phases Search",
+    "PDS",
+    "CCC",
+    "CGCCC",
+    "Structural Runtime",
+    "Trajectory IR",
+    "Metric Space",
+    "Structural Navigation",
+    "Executable Runtime",
+    "Policy Decision System",
+    "AI Runtime",
+    "Structural Evolution"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/sizhet/Autonomous-Structural-Intelligence",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "version": "1.0.0",
+  "language": "eng"
+}
