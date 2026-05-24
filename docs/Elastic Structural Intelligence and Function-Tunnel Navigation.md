@@ -242,7 +242,13 @@ Thus:
 > Elastic Structural Intelligence is not merely an engineering technique.\
 > It is a biologically aligned intelligence geometry.
 
+![./figures/Fig-003-FTI-Architecture.png](./figures/Fig-003-FTI-Architecture.png)
+
+---
+
 ## 5. Applications
+
+![./figures/Fig-005-FTI-Applications.png](./figures/Fig-005-FTI-Applications.png)
 
 ### 5.1 Low-Cost Autonomous Drone Navigation
 
@@ -285,6 +291,9 @@ This represents a transition from:
 to:
 
 ### terrain-matching function-tunnel navigation.
+
+![./figures/Fig-004-Function-Tunnel-Navigation-(Drone Example).png](./figures/Fig-004-Function-Tunnel-Navigation-(Drone Example).png)
+
 
 ### 5.2 Robotics
 
@@ -345,7 +354,23 @@ to:
 
 ### structural tunnel generation.
 
+--- 
+
+### ### Fig-006: Comparison of Linear vs Function-Tunnel
+
+![./figures/Fig-006-Comparison-of-Linear-vs-Function-Tunnel.png](./figures/Fig-006-Comparison-of-Linear-vs-Function-Tunnel.png)
+
+---
+
 ### 5.4 LLM Runtime Governance
+
+--- 
+
+### Fig-007 - FTI Workflow (End-to-End-Loop)
+
+![./figures/Fig-007-FTI-Workflow-(End-to-End-Loop).png](./figures/Fig-007-FTI-Workflow-(End-to-End-Loop).png)
+
+---
 
 Large Language Models currently entangle:
 
@@ -379,6 +404,14 @@ This naturally aligns with:
     PDS(u)=M(P(D(K(S(u)))))
 
 where runtime policy control becomes structurally separable from raw generative capability.
+
+--- 
+
+### Fig-008 - FTI Core Equation andPrinciple
+
+![./figures/Fig-008-FTI-Core-Equation-and-Principle.png](./figures/Fig-008-FTI-Core-Equation-and-Principle.png)
+
+---
 
 ## 6. Toward Elastic Runtime Civilizations
 

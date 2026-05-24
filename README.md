@@ -161,6 +161,8 @@ where tolerance geometry becomes a first-class runtime primitive.
 
 ## Applications
 
+![./docs/figures/Fig-005-FTI-Applications.png](./docs/figures/Fig-005-FTI-Applications.png)
+
 ### Low-Cost Drone Navigation
 
 Transition from:
@@ -200,6 +202,8 @@ FTI supports:
 - elastic collective behavior,
 - and low-bandwidth swarm intelligence.
 
+![./docs/figures/Fig-004-Function-Tunnel-Navigation-(Drone Example).png](./docs/figures/Fig-004-Function-Tunnel-Navigation-(Drone Example).png)
+
 ### AI Runtime Governance
 
 FTI enables:
@@ -226,6 +230,14 @@ This enables:
 - structural equivalence matching,
 - CCC-preserving transformations,
 - and elastic software synthesis.
+
+---
+
+### Fig-006: Comparison of Linear vs Function-Tunnel
+
+![./docs/figures/Fig-006-Comparison-of-Linear-vs-Function-Tunnel.png](./docs/figures/Fig-006-Comparison-of-Linear-vs-Function-Tunnel.png)
+
+---
 
 ## FTI Runtime Architecture
 
@@ -258,6 +270,14 @@ Execute adaptive actions while preserving tunnel continuity.
 
 ## Relationship to ASI / PDS / CCC
 
+--- 
+
+### Fig-007 - FTI Workflow (End-to-End-Loop)
+
+![./docs/figures/Fig-007-FTI-Workflow-(End-to-End-Loop).png](./docs/figures/Fig-007-FTI-Workflow-(End-to-End-Loop).png)
+
+---
+
 FTI naturally integrates with:
 
 - Autonomous Structural Intelligence (ASI)
@@ -283,6 +303,14 @@ Where:
 - T(.) = tunnel alignment & structural evaluation
 - P(.) = policy tunnel control
 - M(.) = motion / runtime execution
+
+--- 
+
+### Fig-008 - FTI Core Equation andPrinciple
+
+![./docs/figures/Fig-008-FTI-Core-Equation-and-Principle.png](./docs/figures/Fig-008-FTI-Core-Equation-and-Principle.png)
+
+---
 
 ## Vision
 
