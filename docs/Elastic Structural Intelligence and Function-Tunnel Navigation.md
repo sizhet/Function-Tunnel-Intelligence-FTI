@@ -315,7 +315,7 @@ to:
 
 ### Fig-004 - Function Tunnel Navigation (Drone Example)
 
-![./figures/Fig-004-Function-Tunnel-Navigation-(Drone Example).png](./figures/Fig-004-Function-Tunnel-Navigation-(Drone Example).png)
+![./figures/Fig-004-Function-Tunnel-Navigation-(Drone-Example).png](./figures/Fig-004-Function-Tunnel-Navigation-(Drone-Example).png)
 
 ---
 

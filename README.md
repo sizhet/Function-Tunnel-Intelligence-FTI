@@ -222,7 +222,7 @@ FTI supports:
 
 ### Fig-004 - Function Tunnel Navigation (Drone Example)
 
-![./docs/figures/Fig-004-Function-Tunnel-Navigation-(Drone Example).png](./docs/figures/Fig-004-Function-Tunnel-Navigation-(Drone Example).png)
+![./docs/figures/Fig-004-Function-Tunnel-Navigation-(Drone-Example).png](./docs/figures/Fig-004-Function-Tunnel-Navigation-(Drone-Example).png)
 
 --
 
