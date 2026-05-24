@@ -1,4 +1,4 @@
-package com.dbm-si;
+package com.dbm.fti;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
