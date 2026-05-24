@@ -1,76 +1,43 @@
 cff-version: 1.2.0
-
-title: "Autonomous Structural Intelligence (ASI): From Point Prediction to Structure Prediction"
-
-message: >
-  If you use this repository, please cite it using the metadata below.
-
+title: "Function-Tunnel Intelligence (FTI): Elastic Structural Runtime Intelligence for Robust Autonomous Systems"
+message: "If you use this repository or its concepts, please cite this work."
 type: software
 
 authors:
-  - family-names: "Tan"
-    given-names: "Sizhe"
+  - family-names: Tan
+    given-names: Sizhe
+    affiliation: Independent Researcher
 
-repository-code: "https://github.com/sizhet/Autonomous-Structural-Intelligence"
-
-abstract: >
-  Autonomous Structural Intelligence (ASI) explores a structural-runtime
-  direction for next-generation AI systems. Traditional AI systems are
-  largely dominated by point-prediction paradigms. ASI investigates the
-  transition toward structure prediction, structural navigation,
-  trajectory-native representation, metric-driven structural compression,
-  and executable structural runtime evolution.
-
-  This repository introduces the first executable ASI runtime MVP skeleton,
-  including:
-  - Vertical-Gap Go-Around
-  - Elastic Trajectory IR
-  - Elastic Segment Merge
-  - Structure Prediction Runtime
-
-  Together, these MVPs demonstrate a first ASI runtime loop:
-
-  Observe Structures
-  → Compress Structures
-  → Navigate Structures
-  → Predict Structures
-  → Evolve Structures
+abstract: >-
+  Function-Tunnel Intelligence (FTI) introduces an elastic structural runtime
+  intelligence paradigm for robust autonomous systems. Instead of requiring
+  exact path-following, exact synchronization, or rigid trajectory matching,
+  FTI proposes that intelligent systems should remain inside acceptable
+  structural function-tunnels. The framework combines Time-Series Curve
+  Elastic IR, function-tunnel navigation, behavioral manifold stabilization,
+  policy tunnel governance, and structural corridor matching. Applications
+  include low-cost drone navigation, robotics, swarm systems, AI runtime
+  governance, structural AI coding, and post-LLM control-plane design.
 
 keywords:
-  - Artificial Intelligence
+  - Function-Tunnel Intelligence
+  - FTI
+  - Elastic Structural Intelligence
+  - Function-Tunnel Navigation
+  - Time-Series Curve Elastic IR
+  - Autonomous Systems
+  - Robotics
+  - Swarm Intelligence
+  - Runtime Governance
+  - Policy Tunnel
+  - Behavioral Manifold
   - Structural Intelligence
-  - Autonomous Structural Intelligence
-  - Structure Prediction
-  - Structural Runtime
   - DBM-SI
   - PDS
   - CCC
-  - CGCCC
-  - Trajectory Intelligence
-  - Trajectory IR
-  - Elastic IR
-  - Differential Tree
-  - Metric Space
-  - Structural Navigation
-  - Executable Runtime
-  - Policy Decision System
-  - AI Runtime
-  - Structural Evolution
-  - Structural Runtime
 
-license: Apache-2.0
-
-version: 1.0.0
-
-date-released: 2026-05-20
-
-url: "https://github.com/sizhet/Autonomous-Structural-Intelligence"
-
-preferred-citation:
-  type: software
-  authors:
-    - family-names: "Tan"
-      given-names: "Sizhe"
-  title: "Autonomous Structural Intelligence (ASI): From Point Prediction to Structure Prediction"
-  version: 1.0.0
-  url: "https://github.com/sizhet/Autonomous-Structural-Intelligence"
+license: MIT
+repository-code: "https://github.com/sizhet/Function-Tunnel-Intelligence-FTI"
+url: "https://github.com/sizhet/Function-Tunnel-Intelligence-FTI"
+date-released: 2026-05-24
+version: "1.0.0"
