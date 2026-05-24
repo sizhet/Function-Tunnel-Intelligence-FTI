@@ -385,3 +385,39 @@ FTI represents a transition from:
 to:
 
 ### elastic structural runtime intelligence.
+
+---
+
+## Beyond Navigation
+
+FTI is not merely a navigation framework.
+
+It represents a broader transition from:
+
+- exact-state intelligence
+to:
+- elastic structural runtime intelligence.
+
+This transition may become increasingly important as AI systems evolve beyond:
+
+- brute-force scaling,
+- opaque parameter entanglement,
+- and rigid exact-control assumptions.
+
+FTI proposes that future intelligent systems should operate through:
+
+- structural corridors,
+- acceptable behavioral manifolds,
+- trajectory stabilization,
+- and runtime tunnel governance.
+
+This perspective naturally connects to:
+
+- CCC extraction,
+- policy disentanglement,
+- elastic runtime systems,
+- and collective structural intelligence.
+
+See:
+
+- docs/future-directions/The-Next-Step-Beyond-LLM-High-Water-Mark.md
