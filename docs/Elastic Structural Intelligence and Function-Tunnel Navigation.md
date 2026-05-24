@@ -163,8 +163,13 @@ Instead, it asks:
 
 This is a profound shift in navigation philosophy.
 
+---
+
+### Fig-001 - From Exact Path to Function Tunnel
+
 ![./figures/Fig-001-From-Exact-Path-to-Function-Tunnel.png](./figures/Fig-001-From-Exact-Path-to-Function-Tunnel.png)
 
+---
 
 ## 3. Time-Series Curve Elastic IR
 
@@ -207,7 +212,13 @@ This enables:
 - tolerant control,
 - and resilient behavioral alignment.
 
+---
+
+### Fig-002 - Time Series Curve Elastic IR in Function Tunnel
+
 ![./figures/Fig-002-Time-Series-Curve-Elastic-IR-in-Function-Tunnel.png](./figures/Fig-002-Time-Series-Curve-Elastic-IR-in-Function-Tunnel.png)
+
+---
 
 ## 4. Elastic Structural Intelligence (ESI)
 
@@ -242,13 +253,21 @@ Thus:
 > Elastic Structural Intelligence is not merely an engineering technique.\
 > It is a biologically aligned intelligence geometry.
 
+---
+
+### Fig-003 FTI Architecture
+
 ![./figures/Fig-003-FTI-Architecture.png](./figures/Fig-003-FTI-Architecture.png)
 
 ---
 
 ## 5. Applications
 
+### Fig-005 - FTI Applications
+
 ![./figures/Fig-005-FTI-Applications.png](./figures/Fig-005-FTI-Applications.png)
+
+---
 
 ### 5.1 Low-Cost Autonomous Drone Navigation
 
@@ -292,8 +311,13 @@ to:
 
 ### terrain-matching function-tunnel navigation.
 
+---
+
+### Fig-004 - Function Tunnel Navigation (Drone Example)
+
 ![./figures/Fig-004-Function-Tunnel-Navigation-(Drone Example).png](./figures/Fig-004-Function-Tunnel-Navigation-(Drone Example).png)
 
+---
 
 ### 5.2 Robotics
 
@@ -356,7 +380,7 @@ to:
 
 --- 
 
-### ### Fig-006: Comparison of Linear vs Function-Tunnel
+### Fig-006: Comparison of Linear vs Function-Tunnel
 
 ![./figures/Fig-006-Comparison-of-Linear-vs-Function-Tunnel.png](./figures/Fig-006-Comparison-of-Linear-vs-Function-Tunnel.png)
 

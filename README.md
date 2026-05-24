@@ -71,7 +71,13 @@ to:
 
 ## Core Principle
 
+---
+
+### Fig-001 - From Exact Path to Function Tunnel
+
 ![./docs/figures/Fig-001-From-Exact-Path-to-Function-Tunnel.png](./docs/figures/Fig-001-From-Exact-Path-to-Function-Tunnel.png)
+
+--
 
 The objective is no longer:
 
@@ -118,7 +124,13 @@ Instead:
 
     “Do these trajectories remain inside the same structural function-tunnel?”
 
+---
+
+### Fig-002 - Time Series Curve Elastic IR in Function Tunnel
+
 ![./docs/figures/Fig-002-Time-Series-Curve-Elastic-IR-in-Function-Tunnel.png](./docs/figures/Fig-002-Time-Series-Curve-Elastic-IR-in-Function-Tunnel.png)
+
+---
 
 ## Function-Tunnel Navigation
 
@@ -161,7 +173,11 @@ where tolerance geometry becomes a first-class runtime primitive.
 
 ## Applications
 
+### Fig-005 - FTI Applications
+
 ![./docs/figures/Fig-005-FTI-Applications.png](./docs/figures/Fig-005-FTI-Applications.png)
+
+--
 
 ### Low-Cost Drone Navigation
 
@@ -202,7 +218,13 @@ FTI supports:
 - elastic collective behavior,
 - and low-bandwidth swarm intelligence.
 
+---
+
+### Fig-004 - Function Tunnel Navigation (Drone Example)
+
 ![./docs/figures/Fig-004-Function-Tunnel-Navigation-(Drone Example).png](./docs/figures/Fig-004-Function-Tunnel-Navigation-(Drone Example).png)
+
+--
 
 ### AI Runtime Governance
 
@@ -241,7 +263,11 @@ This enables:
 
 ## FTI Runtime Architecture
 
+### Fig-003 FTI Architecture
+
 ![./docs/figures/Fig-003-FTI-Architecture.png](./docs/figures/Fig-003-FTI-Architecture.png)
+
+---
 
 ### Core Layers
 ### 1. Perception & Sensing
