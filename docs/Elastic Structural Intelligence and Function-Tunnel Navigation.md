@@ -163,6 +163,9 @@ Instead, it asks:
 
 This is a profound shift in navigation philosophy.
 
+![./figures/Fig-001-From-Exact-Path-to-Function-Tunnel.png](./figures/Fig-001-From-Exact-Path-to-Function-Tunnel.png)
+
+
 ## 3. Time-Series Curve Elastic IR
 
 At the core of this paradigm lies:
@@ -203,6 +206,8 @@ This enables:
 - adaptive navigation,
 - tolerant control,
 - and resilient behavioral alignment.
+
+![./figures/Fig-002-Time-Series-Curve-Elastic-IR-in-Function-Tunnel.png](./figures/Fig-002-Time-Series-Curve-Elastic-IR-in-Function-Tunnel.png)
 
 ## 4. Elastic Structural Intelligence (ESI)
 

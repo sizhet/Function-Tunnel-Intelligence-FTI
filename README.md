@@ -71,6 +71,8 @@ to:
 
 ## Core Principle
 
+![./docs/figures/Fig-001-From-Exact-Path-to-Function-Tunnel.png](./docs/figures/Fig-001-From-Exact-Path-to-Function-Tunnel.png)
+
 The objective is no longer:
 
     trajectory=exact_reference
@@ -115,6 +117,8 @@ Its purpose is not to determine:
 Instead:
 
     “Do these trajectories remain inside the same structural function-tunnel?”
+
+![./docs/figures/Fig-002-Time-Series-Curve-Elastic-IR-in-Function-Tunnel.png](./docs/figures/Fig-002-Time-Series-Curve-Elastic-IR-in-Function-Tunnel.png)
 
 ## Function-Tunnel Navigation
 
@@ -224,6 +228,8 @@ This enables:
 - and elastic software synthesis.
 
 ## FTI Runtime Architecture
+
+![./docs/figures/Fig-003-FTI-Architecture.png](./docs/figures/Fig-003-FTI-Architecture.png)
 
 ### Core Layers
 ### 1. Perception & Sensing
