@@ -4,61 +4,63 @@
 
 This MVP demonstrates one of the most important application scenarios of:
 
-Function-Tunnel Intelligence (FTI)
+#### Function-Tunnel Intelligence (FTI)
 
 It compares:
 
-Traditional Exact Linear Navigation
+#### Traditional Exact Linear Navigation
 
 vs.
 
-Function-Tunnel Navigation
+#### Function-Tunnel Navigation
 
 under:
 
-drift,
-noisy sensors,
-unstable movement,
-and environmental perturbation.
+- drift,
+- noisy sensors,
+- unstable movement,
+- and environmental perturbation.
 
 The demo illustrates a key FTI principle:
 
-Exact navigation is brittle and expensive.
-Function-tunnel navigation is elastic, survivable, and low-cost-friendly.
+> Exact navigation is brittle and expensive.\
+> Function-tunnel navigation is elastic, survivable, and low-cost-friendly.
 
-Project Structure
-fti-demo-drone-navigation/
-├── README.md
-│
-├── src/main/java/com/dbm/fti/drone/
-│
-├── model/
-│   ├── DroneState.java
-│   ├── Waypoint.java
-│   ├── TerrainTunnel.java
-│   └── NavigationResult.java
-│
-├── engine/
-│   ├── ExactNavigationEngine.java
-│   ├── FunctionTunnelNavigationEngine.java
-│   ├── DriftSimulator.java
-│   ├── TunnelRecoveryEngine.java
-│   └── TerrainTunnelEstimator.java
-│
-├── printer/
-│   └── DroneNavigationPrinter.java
-│
-├── demo/
-│   └── DroneTunnelNavigationDemoMain.java
-│
-└── src/test/java/com/dbm/fti/drone/
-    └── TunnelRecoverySmokeTest.java
-README.md
-# MVP-002 — Drone Function-Tunnel Navigation
+## Project Structure
+
+    fti-demo-drone-navigation/
+    ├── README.md
+    │
+    ├── src/main/java/com/dbm/fti/drone/
+    │
+    ├── model/
+    │   ├── DroneState.java
+    │   ├── Waypoint.java
+    │   ├── TerrainTunnel.java
+    │   └── NavigationResult.java
+    │
+    ├── engine/
+    │   ├── ExactNavigationEngine.java
+    │   ├── FunctionTunnelNavigationEngine.java
+    │   ├── DriftSimulator.java
+    │   ├── TunnelRecoveryEngine.java
+    │   └── TerrainTunnelEstimator.java
+    │
+    ├── printer/
+    │   └── DroneNavigationPrinter.java
+    │
+    ├── demo/
+    │   └── DroneTunnelNavigationDemoMain.java
+    │
+    └── src/test/java/com/dbm/fti/drone/
+        └── TunnelRecoverySmokeTest.java
+
+## README.md
+## MVP-002 — Drone Function-Tunnel Navigation
 
 This MVP demonstrates:
 
-# Function-Tunnel Navigation
+## Function-Tunnel Navigation
 
 for low-cost autonomous drones operating under:
 
@@ -90,7 +92,8 @@ This dramatically improves:
 - survivability,
 - robustness,
 - and low-cost autonomy.
-DroneState.java
+
+### DroneState.java
 package com.dbm.fti.drone.model;
 
 public class DroneState {
@@ -129,7 +132,8 @@ public class DroneState {
         return "(" + x + ", " + y + ")";
     }
 }
-Waypoint.java
+
+### Waypoint.java
 package com.dbm.fti.drone.model;
 
 public class Waypoint {
@@ -150,7 +154,8 @@ public class Waypoint {
         return y;
     }
 }
-TerrainTunnel.java
+
+### TerrainTunnel.java
 package com.dbm.fti.drone.model;
 
 public class TerrainTunnel {
@@ -165,7 +170,8 @@ public class TerrainTunnel {
         return width;
     }
 }
-NavigationResult.java
+
+### NavigationResult.java
 package com.dbm.fti.drone.model;
 
 public class NavigationResult {
@@ -189,7 +195,8 @@ public class NavigationResult {
         return message;
     }
 }
-DriftSimulator.java
+
+### DriftSimulator.java
 package com.dbm.fti.drone.engine;
 
 import java.util.Random;
@@ -203,7 +210,8 @@ public class DriftSimulator {
         return (random.nextDouble() - 0.5) * scale;
     }
 }
-ExactNavigationEngine.java
+
+### ExactNavigationEngine.java
 package com.dbm.fti.drone.engine;
 
 import com.dbm.fti.drone.model.*;
@@ -230,7 +238,8 @@ public class ExactNavigationEngine {
                 "FAILED: outside exact tolerance.");
     }
 }
-FunctionTunnelNavigationEngine.java
+
+### FunctionTunnelNavigationEngine.java
 package com.dbm.fti.drone.engine;
 
 import com.dbm.fti.drone.model.*;
@@ -257,7 +266,8 @@ public class FunctionTunnelNavigationEngine {
                 "OUTSIDE FUNCTION-TUNNEL.");
     }
 }
-TerrainTunnelEstimator.java
+
+### TerrainTunnelEstimator.java
 package com.dbm.fti.drone.engine;
 
 import com.dbm.fti.drone.model.TerrainTunnel;
@@ -270,7 +280,8 @@ public class TerrainTunnelEstimator {
         return new TerrainTunnel(8.0);
     }
 }
-TunnelRecoveryEngine.java
+
+### TunnelRecoveryEngine.java
 package com.dbm.fti.drone.engine;
 
 import com.dbm.fti.drone.model.DroneState;
@@ -291,7 +302,8 @@ public class TunnelRecoveryEngine {
         drone.move(dx, dy);
     }
 }
-DroneNavigationPrinter.java
+
+### DroneNavigationPrinter.java
 package com.dbm.fti.drone.printer;
 
 import com.dbm.fti.drone.model.NavigationResult;
@@ -313,7 +325,8 @@ public class DroneNavigationPrinter {
         }
     }
 }
-DroneTunnelNavigationDemoMain.java
+
+### DroneTunnelNavigationDemoMain.java
 package com.dbm.fti.drone.demo;
 
 import com.dbm.fti.drone.engine.*;
@@ -384,21 +397,24 @@ public class DroneTunnelNavigationDemoMain {
                 + noisyDrone);
     }
 }
-Expected Console Output
---------------------------------
-Mode: Exact Linear Navigation
-Result: FAILED: outside exact tolerance.
-MISSION STATUS: FAILED
 
---------------------------------
-Mode: Function-Tunnel Navigation
-Result: INSIDE FUNCTION-TUNNEL.
-MISSION STATUS: SURVIVED
+### Expected Console Output
+    
+    --------------------------------
+    Mode: Exact Linear Navigation
+    Result: FAILED: outside exact tolerance.
+    MISSION STATUS: FAILED
+    
+    --------------------------------
+    Mode: Function-Tunnel Navigation
+    Result: INSIDE FUNCTION-TUNNEL.
+    MISSION STATUS: SURVIVED
+    
+    --------------------------------
+    Recovered Drone Position:
+    (96.7, 102.1)
 
---------------------------------
-Recovered Drone Position:
-(96.7, 102.1)
-TunnelRecoverySmokeTest.java
+### TunnelRecoverySmokeTest.java
 package com.dbm.fti.drone;
 
 import com.dbm.fti.drone.demo.DroneTunnelNavigationDemoMain;
@@ -413,34 +429,35 @@ public class TunnelRecoverySmokeTest {
                 new String[0]);
     }
 }
-Why This MVP Matters
+
+## Why This MVP Matters
 
 This MVP demonstrates one of the most important principles of:
 
-Function-Tunnel Intelligence (FTI)
+#### Function-Tunnel Intelligence (FTI)
 
 Traditional exact-control navigation:
 
-becomes brittle under drift,
-requires expensive precision hardware,
-and collapses under narrow tolerances.
+- becomes brittle under drift,
+- requires expensive precision hardware,
+- and collapses under narrow tolerances.
 
 FTI instead uses:
 
-elastic structural corridors,
-adaptive tunnel recovery,
-and trajectory survivability.
+- elastic structural corridors,
+- adaptive tunnel recovery,
+- and trajectory survivability.
 
 This allows:
 
-lower-cost autonomous systems,
-robust runtime adaptation,
-and scalable swarm-friendly navigation.
+- lower-cost autonomous systems,
+- robust runtime adaptation,
+- and scalable swarm-friendly navigation.
 
 The key transition is:
 
-from exact path-following
+#### from exact path-following
 
 to:
 
-survivable function-tunnel navigation.
+#### survivable function-tunnel navigation.

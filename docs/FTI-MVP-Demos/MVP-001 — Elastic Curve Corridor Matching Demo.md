@@ -4,58 +4,61 @@
 
 This MVP demonstrates the core intuition of:
 
-Function-Tunnel Intelligence (FTI)
+## Function-Tunnel Intelligence (FTI)
 
 Instead of asking:
 
-“Are two trajectories exactly equal?”
+> “Are two trajectories exactly equal?”
 
 the system asks:
 
-“Do these trajectories remain inside the same structural function-tunnel?”
+> “Do these trajectories remain inside the same structural function-tunnel?”
 
 This demo establishes:
 
-Elastic IR intuition
-corridor geometry
-tunnel-based acceptance
-structural trajectory matching
-noisy runtime robustness
+- Elastic IR intuition
+- corridor geometry
+- tunnel-based acceptance
+- structural trajectory matching
+- noisy runtime robustness
 
 It is the foundational runtime primitive for:
 
-drone tunnel navigation
-swarm cohesion
-elastic runtime governance
-robotics recovery
-AI runtime stabilization
-Project Structure
-fti-demo-elastic-ir/
-├── README.md
-├── src/main/java/com/dbm/fti/elasticir/
-│
-├── model/
-│   ├── Point2D.java
-│   ├── ElasticCurve.java
-│   ├── Tunnel.java
-│   └── MatchResult.java
-│
-├── engine/
-│   ├── CurveSimilarityEngine.java
-│   ├── TunnelEstimator.java
-│   ├── TunnelMembershipJudge.java
-│   └── ElasticCurveGenerator.java
-│
-├── printer/
-│   └── TunnelVisualizationPrinter.java
-│
-├── demo/
-│   └── ElasticIrCorridorDemoMain.java
-│
-└── src/test/java/com/dbm/fti/elasticir/
-    └── ElasticIrCorridorSmokeTest.java
-README.md
-# FTI MVP-001 — Elastic Curve Corridor Matching
+- drone tunnel navigation
+- swarm cohesion
+- elastic runtime governance
+- robotics recovery
+- AI runtime stabilization
+
+## Project Structure
+
+    fti-demo-elastic-ir/
+    ├── README.md
+    ├── src/main/java/com/dbm/fti/elasticir/
+    │
+    ├── model/
+    │   ├── Point2D.java
+    │   ├── ElasticCurve.java
+    │   ├── Tunnel.java
+    │   └── MatchResult.java
+    │
+    ├── engine/
+    │   ├── CurveSimilarityEngine.java
+    │   ├── TunnelEstimator.java
+    │   ├── TunnelMembershipJudge.java
+    │   └── ElasticCurveGenerator.java
+    │
+    ├── printer/
+    │   └── TunnelVisualizationPrinter.java
+    │
+    ├── demo/
+    │   └── ElasticIrCorridorDemoMain.java
+    │
+    └── src/test/java/com/dbm/fti/elasticir/
+        └── ElasticIrCorridorSmokeTest.java
+
+## README.md
+## FTI MVP-001 — Elastic Curve Corridor Matching
 
 This MVP demonstrates the core runtime intuition of:
 
@@ -71,7 +74,7 @@ FTI instead performs:
 
 The system determines whether noisy or drifting trajectories still belong to the same:
 
-# function-tunnel.
+## function-tunnel.
 
 The demo includes:
 
@@ -92,7 +95,8 @@ This forms the basis for:
 - swarm structural cohesion,
 - elastic robotics control,
 - and runtime stabilization systems.
-Point2D.java
+
+### Point2D.java
 package com.dbm.fti.elasticir.model;
 
 public class Point2D {
@@ -124,7 +128,8 @@ public class Point2D {
         return "(" + x + ", " + y + ")";
     }
 }
-ElasticCurve.java
+
+### ElasticCurve.java
 package com.dbm.fti.elasticir.model;
 
 import java.util.ArrayList;
@@ -151,7 +156,8 @@ public class ElasticCurve {
         return name;
     }
 }
-Tunnel.java
+
+### Tunnel.java
 package com.dbm.fti.elasticir.model;
 
 public class Tunnel {
@@ -166,7 +172,8 @@ public class Tunnel {
         return acceptanceThreshold;
     }
 }
-MatchResult.java
+
+### MatchResult.java
 package com.dbm.fti.elasticir.model;
 
 public class MatchResult {
@@ -187,7 +194,8 @@ public class MatchResult {
         return insideTunnel;
     }
 }
-CurveSimilarityEngine.java
+
+### CurveSimilarityEngine.java
 package com.dbm.fti.elasticir.engine;
 
 import com.dbm.fti.elasticir.model.ElasticCurve;
@@ -215,7 +223,8 @@ public class CurveSimilarityEngine {
         return 1.0 / (1.0 + avgDistance);
     }
 }
-TunnelEstimator.java
+
+### TunnelEstimator.java
 package com.dbm.fti.elasticir.engine;
 
 import com.dbm.fti.elasticir.model.Tunnel;
@@ -228,7 +237,8 @@ public class TunnelEstimator {
         return new Tunnel(0.70);
     }
 }
-TunnelMembershipJudge.java
+
+### TunnelMembershipJudge.java
 package com.dbm.fti.elasticir.engine;
 
 import com.dbm.fti.elasticir.model.MatchResult;
@@ -243,7 +253,8 @@ public class TunnelMembershipJudge {
         return new MatchResult(similarity, inside);
     }
 }
-ElasticCurveGenerator.java
+
+### ElasticCurveGenerator.java
 package com.dbm.fti.elasticir.engine;
 
 import com.dbm.fti.elasticir.model.ElasticCurve;
@@ -286,7 +297,7 @@ public class ElasticCurveGenerator {
         return curve;
     }
 }
-TunnelVisualizationPrinter.java
+### TunnelVisualizationPrinter.java
 package com.dbm.fti.elasticir.printer;
 
 import com.dbm.fti.elasticir.model.MatchResult;
@@ -308,7 +319,8 @@ public class TunnelVisualizationPrinter {
         }
     }
 }
-ElasticIrCorridorDemoMain.java
+
+### ElasticIrCorridorDemoMain.java
 package com.dbm.fti.elasticir.demo;
 
 import com.dbm.fti.elasticir.engine.*;
@@ -367,17 +379,20 @@ public class ElasticIrCorridorDemoMain {
         printer.print("StrongNoise", strongResult);
     }
 }
-Expected Console Output
-----------------------------------
-Trajectory: MildNoise
-Similarity: 0.89
-Status: INSIDE FUNCTION-TUNNEL
 
-----------------------------------
-Trajectory: StrongNoise
-Similarity: 0.43
-Status: OUTSIDE FUNCTION-TUNNEL
-ElasticIrCorridorSmokeTest.java
+### Expected Console Output
+
+    ----------------------------------
+    Trajectory: MildNoise
+    Similarity: 0.89
+    Status: INSIDE FUNCTION-TUNNEL
+    
+    ----------------------------------
+    Trajectory: StrongNoise
+    Similarity: 0.43
+    Status: OUTSIDE FUNCTION-TUNNEL
+
+### ElasticIrCorridorSmokeTest.java
 package com.dbm.fti.elasticir;
 
 import com.dbm.fti.elasticir.demo.ElasticIrCorridorDemoMain;
@@ -391,24 +406,25 @@ public class ElasticIrCorridorSmokeTest {
         ElasticIrCorridorDemoMain.main(new String[0]);
     }
 }
-Why This MVP Matters
+
+## Why This MVP Matters
 
 This MVP demonstrates the first core runtime primitive of FTI:
 
-tunnel-based structural acceptance.
+#### tunnel-based structural acceptance.
 
 The system no longer requires:
 
-exact trajectory equality.
+- exact trajectory equality.
 
 Instead, it evaluates:
 
-elastic structural compatibility.
+- elastic structural compatibility.
 
 This runtime primitive is foundational for:
 
-autonomous drone tunnel navigation,
-swarm coordination,
-elastic robotics,
-runtime AI stabilization,
-and future elastic structural intelligence systems.
+- autonomous drone tunnel navigation,
+- swarm coordination,
+- elastic robotics,
+- runtime AI stabilization,
+- and future elastic structural intelligence systems.

@@ -7,27 +7,29 @@ Demonstrate FTI for swarm systems:
 Agents do not need exact synchronization or identical paths.
 They only need to remain inside the same structural function-tunnel.
 
-Project Structure
-fti-demo-swarm-cohesion/
-├── README.md
-├── src/main/java/com/dbm/fti/swarm/
-│   ├── model/
-│   │   ├── AgentState.java
-│   │   ├── SwarmTunnel.java
-│   │   └── CohesionResult.java
-│   ├── engine/
-│   │   ├── SwarmGenerator.java
-│   │   ├── SwarmCohesionEngine.java
-│   │   ├── SwarmTunnelEstimator.java
-│   │   └── SwarmCorrectionEngine.java
-│   ├── printer/
-│   │   └── SwarmCohesionPrinter.java
-│   └── demo/
-│       └── SwarmTunnelCohesionDemoMain.java
-└── src/test/java/com/dbm/fti/swarm/
-    └── SwarmCohesionSmokeTest.java
-README.md
-# MVP-003 — Swarm Tunnel Cohesion Demo
+## Project Structure
+
+    fti-demo-swarm-cohesion/
+    ├── README.md
+    ├── src/main/java/com/dbm/fti/swarm/
+    │   ├── model/
+    │   │   ├── AgentState.java
+    │   │   ├── SwarmTunnel.java
+    │   │   └── CohesionResult.java
+    │   ├── engine/
+    │   │   ├── SwarmGenerator.java
+    │   │   ├── SwarmCohesionEngine.java
+    │   │   ├── SwarmTunnelEstimator.java
+    │   │   └── SwarmCorrectionEngine.java
+    │   ├── printer/
+    │   │   └── SwarmCohesionPrinter.java
+    │   └── demo/
+    │       └── SwarmTunnelCohesionDemoMain.java
+    └── src/test/java/com/dbm/fti/swarm/
+        └── SwarmCohesionSmokeTest.java
+
+## README.md
+## MVP-003 — Swarm Tunnel Cohesion Demo
 
 This demo shows how Function-Tunnel Intelligence supports swarm systems.
 
@@ -57,7 +59,8 @@ This MVP demonstrates:
 - cohesion scoring,
 - inside/outside tunnel judgment,
 - simple correction toward tunnel center.
-AgentState.java
+
+### AgentState.java
 package com.dbm.fti.swarm.model;
 
 public class AgentState {
@@ -95,7 +98,8 @@ public class AgentState {
         return y;
     }
 }
-SwarmTunnel.java
+
+### SwarmTunnel.java
 package com.dbm.fti.swarm.model;
 
 public class SwarmTunnel {
@@ -122,7 +126,8 @@ public class SwarmTunnel {
         return radius;
     }
 }
-CohesionResult.java
+
+### CohesionResult.java
 package com.dbm.fti.swarm.model;
 
 public class CohesionResult {
@@ -160,7 +165,8 @@ public class CohesionResult {
         return swarmInsideTunnel;
     }
 }
-SwarmGenerator.java
+
+### SwarmGenerator.java
 package com.dbm.fti.swarm.engine;
 
 import com.dbm.fti.swarm.model.AgentState;
@@ -191,7 +197,8 @@ public class SwarmGenerator {
         return agents;
     }
 }
-SwarmTunnelEstimator.java
+
+### SwarmTunnelEstimator.java
 package com.dbm.fti.swarm.engine;
 
 import com.dbm.fti.swarm.model.SwarmTunnel;
@@ -202,7 +209,8 @@ public class SwarmTunnelEstimator {
         return new SwarmTunnel(50.0, 50.0, 12.0);
     }
 }
-SwarmCohesionEngine.java
+
+### SwarmCohesionEngine.java
 package com.dbm.fti.swarm.engine;
 
 import com.dbm.fti.swarm.model.AgentState;
@@ -240,7 +248,8 @@ public class SwarmCohesionEngine {
                 accepted);
     }
 }
-SwarmCorrectionEngine.java
+
+### SwarmCorrectionEngine.java
 package com.dbm.fti.swarm.engine;
 
 import com.dbm.fti.swarm.model.AgentState;
@@ -266,7 +275,8 @@ public class SwarmCorrectionEngine {
         }
     }
 }
-SwarmCohesionPrinter.java
+
+### SwarmCohesionPrinter.java
 package com.dbm.fti.swarm.printer;
 
 import com.dbm.fti.swarm.model.AgentState;
@@ -312,7 +322,8 @@ public class SwarmCohesionPrinter {
         return Math.round(v * 100.0) / 100.0;
     }
 }
-SwarmTunnelCohesionDemoMain.java
+
+### SwarmTunnelCohesionDemoMain.java
 package com.dbm.fti.swarm.demo;
 
 import com.dbm.fti.swarm.engine.*;
@@ -361,29 +372,32 @@ public class SwarmTunnelCohesionDemoMain {
         printer.printResult("After Tunnel Correction", after);
     }
 }
-Expected Console Output
-Agents:
-agent-0 -> (57.39, 42.15)
-agent-1 -> (37.13, 46.59)
-...
 
---------------------------------
-Before Tunnel Correction
-Inside agents: 6/10
-Cohesion score: 0.6
-SWARM STATUS: OUTSIDE FUNCTION-TUNNEL
+### Expected Console Output
 
-Agents:
-agent-0 -> (54.8, 44.9)
-agent-1 -> (41.63, 47.78)
-...
+    Agents:
+    agent-0 -> (57.39, 42.15)
+    agent-1 -> (37.13, 46.59)
+    ...
+    
+    --------------------------------
+    Before Tunnel Correction
+    Inside agents: 6/10
+    Cohesion score: 0.6
+    SWARM STATUS: OUTSIDE FUNCTION-TUNNEL
+    
+    Agents:
+    agent-0 -> (54.8, 44.9)
+    agent-1 -> (41.63, 47.78)
+    ...
+    
+    --------------------------------
+    After Tunnel Correction
+    Inside agents: 9/10
+    Cohesion score: 0.9
+    SWARM STATUS: INSIDE FUNCTION-TUNNEL
 
---------------------------------
-After Tunnel Correction
-Inside agents: 9/10
-Cohesion score: 0.9
-SWARM STATUS: INSIDE FUNCTION-TUNNEL
-SwarmCohesionSmokeTest.java
+### SwarmCohesionSmokeTest.java
 package com.dbm.fti.swarm;
 
 import com.dbm.fti.swarm.demo.SwarmTunnelCohesionDemoMain;
@@ -396,33 +410,34 @@ public class SwarmCohesionSmokeTest {
         SwarmTunnelCohesionDemoMain.main(new String[0]);
     }
 }
-Why This MVP Matters
+
+## Why This MVP Matters
 
 MVP-003 shows that FTI naturally extends from single-agent navigation to swarm-level coordination.
 
 The key transition is:
 
-Exact formation control
-        ↓
-Function-tunnel cohesion
+    Exact formation control
+            ↓
+    Function-tunnel cohesion
 
 The swarm does not need:
 
-identical paths,
-rigid formation,
-perfect synchronization.
+- identical paths,
+- rigid formation,
+- perfect synchronization.
 
 It needs:
 
-shared structural direction,
-sufficient tunnel membership,
-recoverable deviation,
-and cohesion inside an acceptable behavioral manifold.
+- shared structural direction,
+- sufficient tunnel membership,
+- recoverable deviation,
+- and cohesion inside an acceptable behavioral manifold.
 
 This is a clean bridge from FTI to:
 
-swarm robotics,
-low-cost drone fleets,
-decentralized agents,
-industrial multi-robot systems,
-and collective runtime intelligence.
+- swarm robotics,
+- low-cost drone fleets,
+- decentralized agents,
+- industrial multi-robot systems,
+- and collective runtime intelligence.

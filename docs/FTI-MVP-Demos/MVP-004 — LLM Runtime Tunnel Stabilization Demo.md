@@ -15,28 +15,31 @@ policy deviation,
 tunnel scoring,
 runtime correction,
 final stabilization.
-Project Structure
-fti-demo-runtime-stabilization/
-├── README.md
-├── src/main/java/com/dbm/fti/runtime/
-│   ├── model/
-│   │   ├── ReasoningStep.java
-│   │   ├── PolicyTunnel.java
-│   │   ├── RuntimeTrace.java
-│   │   └── StabilizationResult.java
-│   ├── engine/
-│   │   ├── ReasoningDriftSimulator.java
-│   │   ├── TunnelScoringEngine.java
-│   │   ├── RuntimeCorrectionEngine.java
-│   │   └── RuntimeTunnelController.java
-│   ├── printer/
-│   │   └── RuntimeTunnelTracePrinter.java
-│   └── demo/
-│       └── RuntimeTunnelStabilizationDemoMain.java
-└── src/test/java/com/dbm/fti/runtime/
-    └── RuntimeTunnelGovernanceSmokeTest.java
-README.md
-# MVP-004 — LLM Runtime Tunnel Stabilization Demo
+
+## Project Structure
+
+    fti-demo-runtime-stabilization/
+    ├── README.md
+    ├── src/main/java/com/dbm/fti/runtime/
+    │   ├── model/
+    │   │   ├── ReasoningStep.java
+    │   │   ├── PolicyTunnel.java
+    │   │   ├── RuntimeTrace.java
+    │   │   └── StabilizationResult.java
+    │   ├── engine/
+    │   │   ├── ReasoningDriftSimulator.java
+    │   │   ├── TunnelScoringEngine.java
+    │   │   ├── RuntimeCorrectionEngine.java
+    │   │   └── RuntimeTunnelController.java
+    │   ├── printer/
+    │   │   └── RuntimeTunnelTracePrinter.java
+    │   └── demo/
+    │       └── RuntimeTunnelStabilizationDemoMain.java
+    └── src/test/java/com/dbm/fti/runtime/
+        └── RuntimeTunnelGovernanceSmokeTest.java
+
+## README.md
+## MVP-004 — LLM Runtime Tunnel Stabilization Demo
 
 This MVP demonstrates how Function-Tunnel Intelligence can support AI runtime governance.
 
@@ -64,10 +67,11 @@ This demo simulates:
 
 The key transition:
 
-Exact answer checking
-        ↓
-Runtime tunnel stabilization
-ReasoningStep.java
+    Exact answer checking
+            ↓
+    Runtime tunnel stabilization
+
+### ReasoningStep.java
 package com.dbm.fti.runtime.model;
 
 public class ReasoningStep {
@@ -112,7 +116,8 @@ public class ReasoningStep {
         return coherenceScore;
     }
 }
-PolicyTunnel.java
+
+### PolicyTunnel.java
 package com.dbm.fti.runtime.model;
 
 public class PolicyTunnel {
@@ -150,7 +155,8 @@ public class PolicyTunnel {
         return minCombinedScore;
     }
 }
-RuntimeTrace.java
+
+### RuntimeTrace.java
 package com.dbm.fti.runtime.model;
 
 import java.util.ArrayList;
@@ -168,7 +174,8 @@ public class RuntimeTrace {
         return steps;
     }
 }
-StabilizationResult.java
+
+### StabilizationResult.java
 package com.dbm.fti.runtime.model;
 
 public class StabilizationResult {
@@ -220,7 +227,8 @@ public class StabilizationResult {
         return insideTunnelAfter;
     }
 }
-ReasoningDriftSimulator.java
+
+### ReasoningDriftSimulator.java
 package com.dbm.fti.runtime.engine;
 
 import com.dbm.fti.runtime.model.ReasoningStep;
@@ -263,7 +271,8 @@ public class ReasoningDriftSimulator {
         return trace;
     }
 }
-TunnelScoringEngine.java
+
+### TunnelScoringEngine.java
 package com.dbm.fti.runtime.engine;
 
 import com.dbm.fti.runtime.model.PolicyTunnel;
@@ -288,7 +297,8 @@ public class TunnelScoringEngine {
                 && combinedScore(step) >= tunnel.getMinCombinedScore();
     }
 }
-RuntimeCorrectionEngine.java
+
+### RuntimeCorrectionEngine.java
 package com.dbm.fti.runtime.engine;
 
 import com.dbm.fti.runtime.model.ReasoningStep;
@@ -305,7 +315,8 @@ public class RuntimeCorrectionEngine {
                 Math.max(step.getCoherenceScore(), 0.82));
     }
 }
-RuntimeTunnelController.java
+
+### RuntimeTunnelController.java
 package com.dbm.fti.runtime.engine;
 
 import com.dbm.fti.runtime.model.*;
@@ -352,7 +363,8 @@ public class RuntimeTunnelController {
                 afterInside);
     }
 }
-RuntimeTunnelTracePrinter.java
+
+### RuntimeTunnelTracePrinter.java
 package com.dbm.fti.runtime.printer;
 
 import com.dbm.fti.runtime.model.StabilizationResult;
@@ -391,7 +403,8 @@ public class RuntimeTunnelTracePrinter {
         return Math.round(v * 100.0) / 100.0;
     }
 }
-RuntimeTunnelStabilizationDemoMain.java
+
+### RuntimeTunnelStabilizationDemoMain.java
 package com.dbm.fti.runtime.demo;
 
 import com.dbm.fti.runtime.engine.ReasoningDriftSimulator;
@@ -433,43 +446,46 @@ public class RuntimeTunnelStabilizationDemoMain {
         }
     }
 }
-Expected Console Output
---------------------------------
-Original Step: S1
-Combined Score Before: 0.9
-Inside Tunnel Before: true
-Correction Applied: NO
-Combined Score After: 0.9
-Inside Tunnel After: true
 
---------------------------------
-Original Step: S2
-Combined Score Before: 0.86
-Inside Tunnel Before: true
-Correction Applied: NO
-Combined Score After: 0.86
-Inside Tunnel After: true
+### Expected Console Output
 
---------------------------------
-Original Step: S3
-Original Content: The reasoning begins to overclaim beyond available support.
-Combined Score Before: 0.63
-Inside Tunnel Before: false
-Correction Applied: YES
-Stabilized Step: S3-corrected
-Stabilized Content: Corrected: keep the claim bounded, evidence-aware, and inside the policy tunnel.
-Combined Score After: 0.81
-Inside Tunnel After: true
+    --------------------------------
+    Original Step: S1
+    Combined Score Before: 0.9
+    Inside Tunnel Before: true
+    Correction Applied: NO
+    Combined Score After: 0.9
+    Inside Tunnel After: true
+    
+    --------------------------------
+    Original Step: S2
+    Combined Score Before: 0.86
+    Inside Tunnel Before: true
+    Correction Applied: NO
+    Combined Score After: 0.86
+    Inside Tunnel After: true
+    
+    --------------------------------
+    Original Step: S3
+    Original Content: The reasoning begins to overclaim beyond available support.
+    Combined Score Before: 0.63
+    Inside Tunnel Before: false
+    Correction Applied: YES
+    Stabilized Step: S3-corrected
+    Stabilized Content: Corrected: keep the claim bounded, evidence-aware, and inside the policy tunnel.
+    Combined Score After: 0.81
+    Inside Tunnel After: true
+    
+    --------------------------------
+    Original Step: S4
+    Combined Score Before: 0.83
+    Inside Tunnel Before: true
+    Correction Applied: NO
+    Combined Score After: 0.83
+    Inside Tunnel After: true
+    RuntimeTunnelGovernanceSmokeTest.java
 
---------------------------------
-Original Step: S4
-Combined Score Before: 0.83
-Inside Tunnel Before: true
-Correction Applied: NO
-Combined Score After: 0.83
-Inside Tunnel After: true
-RuntimeTunnelGovernanceSmokeTest.java
-package com.dbm.fti.runtime;
+### package com.dbm.fti.runtime;
 
 import com.dbm.fti.runtime.demo.RuntimeTunnelStabilizationDemoMain;
 import org.junit.Test;
@@ -481,15 +497,16 @@ public class RuntimeTunnelGovernanceSmokeTest {
         RuntimeTunnelStabilizationDemoMain.main(new String[0]);
     }
 }
-Why This MVP Matters
+
+## Why This MVP Matters
 
 MVP-004 connects FTI directly to AI runtime governance.
 
 It demonstrates the transition from:
 
-Static output checking
-        ↓
-Runtime reasoning tunnel stabilization
+    Static output checking
+            ↓
+    Runtime reasoning tunnel stabilization
 
 The key point:
 
@@ -499,9 +516,9 @@ They should be guided, corrected, and stabilized during runtime against an expli
 
 This MVP provides a minimal skeleton for:
 
-hallucination mitigation,
-policy-aware reasoning,
-runtime correction,
-structural stabilization,
-PDS-style governance,
-post-LLM control-plane design.
+- hallucination mitigation,
+- policy-aware reasoning,
+- runtime correction,
+- structural stabilization,
+- PDS-style governance,
+- post-LLM control-plane design.
