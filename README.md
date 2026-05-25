@@ -426,7 +426,7 @@ See:
 
 ## Citation
 
-    @software{tan_asi_2026,
+    @software{tan_fti_2026,
       author = {Tan, Sizhe},
       title = {Function-Tunnel Intelligence (FTI): Elastic Structural Runtime Intelligence for Robust Autonomous Systems},
       year = {2026},
