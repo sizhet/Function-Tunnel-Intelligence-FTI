@@ -79,4 +79,7 @@
     Repository: https://github.com/sizhet/CCC-Math
 
 27. Autonomous Structural Intelligence (ASI) - From Point Prediction to Structure Prediction \
-    Repository: https://github.com/sizhet/Autonomous-Structural-Intelligence    
+    Repository: https://github.com/sizhet/Autonomous-Structural-Intelligence
+    
+28. Function-Tunnel Intelligence (FTI) - Elastic Structural Runtime Intelligence for Robust Autonomous Systems   
+    Repository: https://github.com/sizhet/Function-Tunnel-Intelligence-FTI
