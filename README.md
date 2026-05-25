@@ -1,449 +1,222 @@
 # Function-Tunnel Intelligence (FTI)
-## Elastic Structural Runtime Intelligence for Robust Autonomous Systems
+## A Structural Intelligence Framework for
+## Navigation, Civilization, Language, Evolution, and Autonomous Systems
 
-> **From Exact Matching to Elastic Structural Intelligence**
+Function-Tunnel Intelligence (FTI) studies how agents move through behavioral spaces under constraints, feedback, memory, reinforcement, and historical accumulation.
 
-## Overview
+FTI began as a framework for:
 
-Function-Tunnel Intelligence (FTI) proposes a new runtime intelligence paradigm for autonomous systems operating in noisy, uncertain, low-cost, and dynamically changing environments.
+- trajectory analysis,
+- navigation,
+- behavioral routing,
+- and tunnel-guided optimization.
 
-Traditional intelligent systems typically assume:
+However, the framework naturally generalizes far beyond engineered navigation systems.
 
-- exact paths,
-- exact synchronization,
-- exact terrain matching,
-- exact state transitions,
-- and exact control loops.
+FTI also applies to:
 
-However, real-world systems rarely operate under such ideal conditions.
+- biological evolution,
+- civilization development,
+- legal and moral systems,
+- technological lock-in,
+- language-mediated coordination,
+- scientific convergence,
+- collective intelligence,
+- and future autonomous AI systems.
 
-Low-cost drones, swarm robotics, autonomous agents, industrial systems, AI runtimes, and biological organisms all exhibit:
+Under generalized FTI:
 
-- sensor noise,
-- imperfect control,
-- delayed feedback,
-- environmental perturbation,
-- and structural uncertainty.
-
-FTI introduces a fundamentally different approach:
-
-### Intelligence should not optimize for a single exact trajectory.
-### Intelligence should remain inside an acceptable structural function-tunnel.
-
-Instead of rigid linear guidance, FTI performs:
-
-- elastic trajectory matching,
-- structural corridor navigation,
-- topology-preserving recovery,
-- adaptive runtime steering,
-- and policy-aware stabilization.
-
-This repository explores:
-
-- Function-Tunnel Navigation,
-- Time-Series Curve Elastic IR,
-- Elastic Structural Runtime Intelligence,
-- Behavioral Manifold Control,
-- Tunnel-Based Governance,
-- and Structural Corridor Systems.
-
-## Core Idea
-
-Traditional systems:
-
-|Traditional Exact Guidance	|Function-Tunnel Intelligence |
-|---|---|
-|Single exact path	|Acceptable trajectory family
-|Narrow tolerance	|Elastic corridor
-|Point matching	|Structural matching
-|Exact synchronization	|Adaptive tolerance
-|Linear navigation	|Tunnel navigation
-|Hard failure	|Structural recovery
-|Exact state transition	|Behavioral manifold continuity
-
-FTI shifts autonomous systems from:
-
-### coordinate targeting
-
-to:
-
-### structural homing inside elastic function-tunnels.
-
-## Core Principle
-
----
-
-### Fig-001 - From Exact Path to Function Tunnel
-
-![./docs/figures/Fig-001-From-Exact-Path-to-Function-Tunnel.png](./docs/figures/Fig-001-From-Exact-Path-to-Function-Tunnel.png)
-
---
-
-The objective is no longer:
-
-    trajectory=exact_reference
-
-Instead:
-
-    trajectory∈acceptable_function_tunnel
-
-This transition dramatically improves:
-
-- robustness,
-- low-cost autonomy,
-- swarm scalability,
-- runtime tolerance,
-- and structural stability.
-
-## Time-Series Curve Elastic IR
-
-FTI is built upon:
-
-### Time-Series Curve Elastic IR
-
-which performs:
-
-- elastic trajectory matching,
-- topology-aware alignment,
-- shape-preserving retrieval,
-- and structural corridor estimation.
-
-Unlike traditional exact matching systems, Elastic IR focuses on:
-
-- curvature continuity,
-- phase tolerance,
-- trend consistency,
-- attractor preservation,
-- and behavioral similarity.
-
-Its purpose is not to determine:
-
-    “Are these trajectories identical?”
-
-Instead:
-
-    “Do these trajectories remain inside the same structural function-tunnel?”
-
----
-
-### Fig-002 - Time Series Curve Elastic IR in Function Tunnel
-
-![./docs/figures/Fig-002-Time-Series-Curve-Elastic-IR-in-Function-Tunnel.png](./docs/figures/Fig-002-Time-Series-Curve-Elastic-IR-in-Function-Tunnel.png)
-
----
-
-## Function-Tunnel Navigation
-
-FTI introduces:
-
-### Function-Tunnel Navigation
-
-A navigation paradigm where autonomous systems operate inside:
-
-- trajectory corridors,
-- structural attractor fields,
-- elastic terrain tunnels,
-- and adaptive behavioral manifolds.
-
-This allows:
-
-- local deviations,
-- temporary drift,
-- partial mismatches,
-- topology-preserving rerouting,
-- and robust mission continuation.
+> Intelligence emerges through the formation, stabilization, inheritance, and navigation of reusable tunnels inside partially random spaces.
 
 ## Why FTI Matters
 
-Modern AI and robotics increasingly face a major contradiction:
+Traditional theories often interpret large-scale systems through either:
 
-|Problem	| Consequence |
+- randomness,
+- or centralized intelligent design.
+
+FTI proposes a structural middle layer.
+
+Many systems evolve through:
+
+- tunnel formation,
+- reinforcement,
+- coordination pressure,
+- memory accumulation,
+- historical inertia,
+- and behavioral reuse.
+
+This applies to:
+
+|Domain	|Example Tunnel Systems |
 |---|---|
-|Exact-control assumptions	|Fragile systems
-|Expensive precision hardware	|Poor scalability
-|Narrow tolerance guidance	|Frequent mission failure
-|High sensor dependency	|Weak robustness
-|Centralized intelligence	|Low adaptability
+|Biology	|Evolutionary adaptation
+|Society	|Law, morality, institutions
+|Civilization	|Historical trajectories
+|Technology	|Industrial lock-in
+|Language	|Conceptual compression
+|AI Systems	|Optimization and coordination corridors
+|Science	|Research convergence
 
-FTI addresses these limitations through:
+## Core FTI Perspective
 
-### Elastic Structural Runtime Intelligence
+Under generalized FTI:
 
-where tolerance geometry becomes a first-class runtime primitive.
+- evolution is not fully random,
+- civilization is not fully chaotic,
+- intelligence is not merely optimization,
+- and autonomous AI may also develop tunnel structures.
 
-## Applications
+FTI proposes that:
 
-### Fig-005 - FTI Applications
+> Large-scale intelligence systems evolve through partially constrained tunnel geometries.
 
-![./docs/figures/Fig-005-FTI-Applications.png](./docs/figures/Fig-005-FTI-Applications.png)
+## Language as Tunnel Infrastructure
 
---
+Language is one of the largest civilization-scale tunnel systems.
 
-### Low-Cost Drone Navigation
+Language shapes:
 
-Transition from:
+- perception,
+- coordination,
+- memory,
+- legal structures,
+- scientific knowledge,
+- engineering systems,
+- and collective behavior.
 
-- terrain-matching linear guidance
+Under FTI:
 
-to:
+> Language does not merely describe tunnels.\
+> Language itself forms tunnels.
 
-- terrain-matching function-tunnel guidance.
+## Recursive FTI
 
-Benefits:
+One of the most surprising implications of generalized FTI is recursive self-reference.
 
-- wider tolerance corridors,
-- lower hardware requirements,
-- higher maneuver survivability,
-- anti-jamming robustness,
-- and swarm scalability.
+FTI eventually begins explaining:
 
-### Robotics
+- scientific convergence,
+- theory formation,
+- engineering trajectories,
+- and even the emergence of FTI itself.
 
-FTI enables:
+This leads to a recursive observation:
 
-- adaptive motion corridors,
-- topology-preserving recovery,
-- behavioral manifold stabilization,
-- and elastic autonomous control.
+> Intelligence systems form tunnels,\
+> and eventually develop theories explaining the tunnels that formed them.
 
-Robots no longer require exact trajectories.
-They only need to remain inside acceptable structural motion tunnels.
+## Intelligence as Tunnel Formation
 
-### Swarm Systems
+FTI proposes a broader interpretation of intelligence:
 
-FTI supports:
+> Intelligence is not the elimination of randomness.\
+> Intelligence is the formation, recognition, stabilization, and navigation of useful tunnels inside partially random spaces.
 
-- decentralized structural cohesion,
-- corridor-based coordination,
-- elastic collective behavior,
-- and low-bandwidth swarm intelligence.
+This perspective connects:
 
----
+- Structural Intelligence,
+- CCC,
+- Differential Trees,
+- PDS,
+- trajectory systems,
+- policy systems,
+- and autonomous AI coordination.
 
-### Fig-004 - Function Tunnel Navigation (Drone Example)
+## The Importance of Structural Observation
 
-![./docs/figures/Fig-004-Function-Tunnel-Navigation-(Drone-Example).png](./docs/figures/Fig-004-Function-Tunnel-Navigation-(Drone-Example).png)
+FTI did not emerge purely from abstract philosophical speculation.
 
---
+Instead, it gradually emerged through long-term engineering interaction with:
 
-### AI Runtime Governance
+- trajectory systems,
+- metric structures,
+- software coordination,
+- naming systems,
+- policy systems,
+- recursive constraints,
+- and behavioral stabilization problems.
 
-FTI enables:
+This observation is important.
 
-- policy tunnel control,
-- runtime stabilization,
-- structural rerouting,
-- hallucination mitigation,
-- and elastic behavioral governance for LLM systems.
+Because it suggests:
 
-##$ AI Coding
+> The path toward deeper intelligence theories may not require mythical genius alone.\
+> It may emerge through sustained structural observation and recursive refinement.
 
-FTI shifts AI coding from:
+In this sense:
 
-- exact token prediction
+The road toward structural intelligence may already exist beneath ordinary engineering practice.
 
-to:
+## Repository Structure
 
-- structurally acceptable generation corridors.
+    docs/
+    ├── START-HERE.md
+    ├── FTI-GENERAL-DEFINITION-AND-SOCIAL-SCOPE.md
+    ├── RECURSIVE-FTI-AND-THE-GEOMETRY-OF-INTELLIGENCE.md
+    ├── LANGUAGE-AS-CIVILIZATION-TUNNEL.md
+    ├── FIGURE-INDEX.md
+    ├── VISUAL-LANGUAGE.md
+    └── figures/
 
-This enables:
+## Figure System
 
-- policy-preserving generation,
-- structural equivalence matching,
-- CCC-preserving transformations,
-- and elastic software synthesis.
+### Phase I — Engineering FTI
 
----
+(Fig-001 ~ Fig-012)
 
-### Fig-006: Comparison of Linear vs Function-Tunnel
+Focus:
 
-![./docs/figures/Fig-006-Comparison-of-Linear-vs-Function-Tunnel.png](./docs/figures/Fig-006-Comparison-of-Linear-vs-Function-Tunnel.png)
+- trajectory systems,
+- navigation,
+- optimization,
+- tunnel guidance,
+- runtime mechanics.
 
----
+### Phase II — Generalized Civilization-Scale FTI
 
-## FTI Runtime Architecture
+(Fig-013 ~ Fig-018)
 
-### Fig-003 FTI Architecture
+Focus:
 
-![./docs/figures/Fig-003-FTI-Architecture.png](./docs/figures/Fig-003-FTI-Architecture.png)
+- civilization tunnels,
+- language tunnels,
+- passive tunnels,
+- path dependence,
+- recursive FTI,
+- tunnel formation across intelligence systems.
 
----
+## Relationship to DBM-SI
 
-### Core Layers
-### 1. Perception & Sensing
+FTI naturally connects to:
 
-Collect environmental and runtime observations.
+- CCC,
+- Differential Trees,
+- PDS,
+- Structural Intelligence,
+- trajectory intelligence,
+- policy systems,
+- UTN,
+- and Autonomous Structural Intelligence (ASI).
 
-### 2. Elastic IR Layer
+Within DBM-SI:
 
-Perform structural trajectory retrieval and matching.
+- tunnels become structural attractors,
+- trajectories become observable behavioral flows,
+- and intelligence becomes tunnel-aware structural adaptation.
 
-### 3. Tunnel Alignment Engine
+## Final Perspective
 
-Estimate corridor membership and deviation geometry.
+Navigation is only the visible engineering surface of FTI.
 
-### 4. Policy Tunnel Controller
+The deeper subject of FTI is:
 
-Perform correction, stabilization, rerouting, and governance.
+- tunnel formation,
+- tunnel stabilization,
+- tunnel inheritance,
+- tunnel competition,
+- and tunnel-guided evolution across intelligence systems.
 
-### 5. Structural Memory / CCC Anchors
+Under this broader perspective:
 
-Maintain invariant structural homing references.
-
-### 6. Runtime Execution
-
-Execute adaptive actions while preserving tunnel continuity.
-
-## Relationship to ASI / PDS / CCC
-
---- 
-
-### Fig-007 - FTI Workflow (End-to-End-Loop)
-
-![./docs/figures/Fig-007-FTI-Workflow-(End-to-End-Loop).png](./docs/figures/Fig-007-FTI-Workflow-(End-to-End-Loop).png)
-
----
-
-FTI naturally integrates with:
-
-- Autonomous Structural Intelligence (ASI)
-- Policy Decision Systems (PDS)
-- CCC (Common Concept Core)
-- Differential Trees
-- Structural Runtime Governance
-
-FTI can be viewed as:
-
-### the elastic runtime geometry layer
-
-inside future structural intelligence systems.
-
-## Canonical Equation
-
-    FTI(u)=M(P(T(E(S(u)))))
-
-Where:
-
-- S(.) = sensing & state acquisition
-- E(.) = Elastic IR & tunnel estimation
-- T(.) = tunnel alignment & structural evaluation
-- P(.) = policy tunnel control
-- M(.) = motion / runtime execution
-
---- 
-
-### Fig-008 - FTI Core Equation andPrinciple
-
-![./docs/figures/Fig-008-FTI-Core-Equation-and-Principle.png](./docs/figures/Fig-008-FTI-Core-Equation-and-Principle.png)
-
----
-
-## Vision
-
-FTI proposes that future intelligent systems should not rely solely on:
-
-- stronger generation,
-- larger models,
-- or higher precision hardware.
-
-Instead, future systems must achieve:
-
-### Elastic Structural Stability
-
-through:
-
-- function-tunnels,
-- behavioral manifolds,
-- structural corridors,
-- and runtime adaptive homing.
-
-## Future Directions
-- Function-Tunnel Robotics
-- Function-Tunnel Swarm Intelligence
-- Elastic Runtime Governance
-- Tunnel-Based AI Coding
-- Structural Corridor IR
-- Behavioral Manifold Learning
-- Tunnel-Based Differential Trees
-- Runtime Stability Geometry
-- Autonomous Elastic Systems
-- Policy Tunnel Intelligence
-
-## Conclusion
-
-Function-Tunnel Intelligence (FTI) introduces a new paradigm for robust autonomous systems.
-
-Its central principle is simple:
-
-> Intelligence is not the pursuit of a single exact path.\
-> Intelligence is the ability to remain inside an acceptable structural function-tunnel.
-
-FTI represents a transition from:
-
-### exact-control intelligence
-
-to:
-
-### elastic structural runtime intelligence.
-
----
-
-## Beyond Navigation
-
-FTI is not merely a navigation framework.
-
-It represents a broader transition from:
-
-- exact-state intelligence
-to:
-- elastic structural runtime intelligence.
-
-This transition may become increasingly important as AI systems evolve beyond:
-
-- brute-force scaling,
-- opaque parameter entanglement,
-- and rigid exact-control assumptions.
-
-FTI proposes that future intelligent systems should operate through:
-
-- structural corridors,
-- acceptable behavioral manifolds,
-- trajectory stabilization,
-- and runtime tunnel governance.
-
-This perspective naturally connects to:
-
-- CCC extraction,
-- policy disentanglement,
-- elastic runtime systems,
-- and collective structural intelligence.
-
-See:
-
-- docs/future-directions/The-Next-Step-Beyond-LLM-High-Water-Mark.md
-
----
-
-## Citation
-
-    @software{tan_fti_2026,
-      author = {Tan, Sizhe},
-      title = {Function-Tunnel Intelligence (FTI): Elastic Structural Runtime Intelligence for Robust Autonomous Systems},
-      year = {2026},
-      version = {1.0.0},
-      url = {https://github.com/sizhet/Function-Tunnel-Intelligence-FTI},
-      doi = {TBD}
-    }
-
-## License
-
-This repository is released under the Apache-2.0 License
-
----
-
-## 📚 DBM-SI Series Navigation
-
-See:\
-[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Common-Abbreviations-and-Terminology.md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Common-Abbreviations-and-Terminology.md)
-
-[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md)
+> Civilization itself may be interpreted as a large-scale evolving network of interacting function tunnels.
