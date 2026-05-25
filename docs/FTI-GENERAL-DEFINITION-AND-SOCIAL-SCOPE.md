@@ -24,7 +24,7 @@ FTI studies how agents move through behavioral spaces under constraints, accumul
 
 This broader view transforms FTI from a specialized engineering concept into a general framework for analyzing non-random behavioral processes across nature, society, and intelligence systems.
 
-2. General Definition of FTI
+## 2. General Definition of FTI
 
 A system belongs to the scope of Function-Tunnel Intelligence if it contains:
 
@@ -123,7 +123,8 @@ scientific validation,
 evolutionary selection,
 economic incentives,
 social trust systems.
-3. Tunnel Formation
+
+## 3. Tunnel Formation
 
 A tunnel is not necessarily designed intentionally.
 
@@ -142,7 +143,7 @@ Thus:
 
 A tunnel is a low-resistance trajectory repeatedly reinforced by selection, memory, and structural feedback.
 
-4. Active and Passive Function Tunnels
+## 4. Active and Passive Function Tunnels
 
 FTI includes both:
 
@@ -191,7 +192,7 @@ This distinction is critical.
 
 Many civilization-scale systems are passive FTI systems.
 
-5. Path Dependence as Passive Function Tunnel
+## 5. Path Dependence as Passive Function Tunnel
 
 Traditional social science often describes "path dependence" as:
 
@@ -210,7 +211,8 @@ institutions resist sudden change,
 technologies become locked-in,
 civilizations follow stable developmental channels,
 and revolutions are comparatively rare.
-6. Law, Morality, and Social Tunnels
+
+## 6. Law, Morality, and Social Tunnels
 
 One of the clearest examples of social FTI is the legal system.
 
@@ -240,7 +242,7 @@ Thus:
 
 Society itself can be interpreted as a large-scale interacting tunnel system.
 
-7. Historical and Civilization-Scale FTI
+## 7. Historical and Civilization-Scale FTI
 
 History exhibits strong tunnel behavior.
 
@@ -267,7 +269,7 @@ Under FTI:
 Historical movement is not purely random.
 It is partially constrained by accumulated tunnel structures.
 
-8. Technology and Industrial FTI
+## 8. Technology and Industrial FTI
 
 Technology evolution strongly exhibits tunnel behavior.
 
@@ -294,7 +296,164 @@ technically superior solutions may fail,
 legacy systems survive,
 ecosystems dominate alternatives,
 and technological monopolies emerge.
-9. Difference Trees and Human Understanding
+
+## 9. Language as a Civilization-Scale Function Tunnel
+
+Humans often regard language as merely a communication tool.
+
+However, under the Function-Tunnel Intelligence (FTI) perspective, language is also one of the largest and most influential tunnel systems in human civilization.
+
+Language shapes:
+
+perception,
+categorization,
+memory,
+reasoning,
+coordination,
+social organization,
+and long-term civilization trajectories.
+
+In this sense:
+
+Language does not merely describe tunnels.
+Language itself forms tunnels.
+
+Language as Behavioral Compression
+
+Words are not merely symbols.
+
+Many words are compressed behavioral and historical structures.
+
+Examples include:
+
+law,
+money,
+ownership,
+nation,
+marriage,
+freedom,
+optimization,
+risk,
+authority.
+
+Each of these terms contains accumulated:
+
+historical experience,
+social behavior,
+institutional reinforcement,
+emotional association,
+legal interpretation,
+and collective memory.
+
+Thus:
+
+Language acts as a civilization-scale compression system for recurring behavioral trajectories.
+
+Repeated social trajectories become stabilized into words, concepts, and linguistic structures.
+
+Language Stabilizes Social and Institutional Tunnels
+
+One of the most important functions of language is not generating novelty, but stabilizing existing tunnels.
+
+Examples include:
+
+legal terminology stabilizing legal systems,
+religious language stabilizing belief systems,
+scientific terminology stabilizing knowledge structures,
+engineering naming systems stabilizing industrial coordination,
+API naming stabilizing software ecosystems.
+
+Without linguistic stabilization, large-scale collective coordination becomes extremely difficult.
+
+Language therefore acts as a tunnel-preservation mechanism for civilization.
+
+Different Languages Produce Different Tunnel Biases
+
+Different languages organize reality differently.
+
+They emphasize:
+
+different distinctions,
+different default assumptions,
+different categorization priorities,
+and different behavioral expectations.
+
+As a result:
+
+Different languages may encourage different civilization-scale tunnel formations.
+
+Language is therefore not merely a communication medium.
+
+It is also a behavioral-space shaping mechanism.
+
+This partially explains why:
+
+cultures diverge,
+civilizations evolve differently,
+legal traditions vary,
+and conceptual transfer between societies can be difficult.
+Language, AI, and Token Tunnels
+
+Modern AI systems further reveal the tunnel nature of language.
+
+Large Language Models (LLMs) operate primarily through token trajectory continuation.
+
+In many cases:
+
+language tokens form local behavioral tunnels,
+repeated linguistic patterns form probabilistic attractors,
+and reasoning emerges from structured trajectory continuation.
+
+However:
+
+Token tunnels are not identical to structural tunnels.
+
+Language-based systems may perform extremely well in dense linguistic spaces while remaining weak in deeper structural or multi-dimensional reasoning spaces.
+
+This observation motivates the integration of:
+
+Structural Intelligence,
+CCC,
+Differential Trees,
+PDS,
+and FTI-based trajectory systems.
+Naming as Tunnel Anchoring
+
+Naming is not merely labeling.
+
+Naming stabilizes behavioral reconstruction.
+
+A strong naming system reduces:
+
+ambiguity,
+structural drift,
+coordination failure,
+and knowledge fragmentation.
+
+In this sense:
+
+Naming acts as tunnel anchoring for collective intelligence systems.
+
+This principle is especially important in:
+
+scientific systems,
+software engineering,
+legal systems,
+industrial coordination,
+and AI-generated code governance.
+Final Perspective on Language FTI
+
+Human civilization may be interpreted as a continuously evolving language-mediated tunnel system.
+
+Communication succeeds when agents enter sufficiently overlapping tunnels of interpretation, memory, and behavioral expectation.
+
+Under this broader view:
+
+language becomes behavioral infrastructure,
+concepts become compressed trajectories,
+and civilization becomes a large-scale interacting network of linguistic and behavioral tunnels.
+
+## 10. Difference Trees and Human Understanding
 
 For readers outside mathematical modeling or AI engineering, FTI may initially appear abstract.
 
@@ -329,7 +488,7 @@ Humans already reason through these distinctions instinctively.
 
 FTI attempts to formalize and generalize this process.
 
-10. FTI and Structural Intelligence
+## 11. FTI and Structural Intelligence
 
 FTI naturally connects to Structural Intelligence frameworks such as:
 
@@ -347,7 +506,8 @@ tunnels become structural attractors,
 policies become tunnel-shaping mechanisms,
 trajectories become observable behavioral flows,
 and intelligence becomes the ability to recognize, predict, modify, or stabilize tunnels.
-11. Generalization Thesis
+
+## 12. Generalization Thesis
 
 The central thesis of generalized FTI is:
 
@@ -372,7 +532,8 @@ legal systems,
 technologies,
 AI infrastructures,
 and civilizations.
-12. Final Perspective
+
+## 13. Final Perspective
 
 Navigation is only one visible engineering form of FTI.
 
