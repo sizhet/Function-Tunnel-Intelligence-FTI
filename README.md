@@ -424,6 +424,25 @@ See:
 
 ---
 
+## Citation
+
+    @software{tan_asi_2026,
+      author = {Tan, Sizhe},
+      title = {Function-Tunnel Intelligence (FTI): Elastic Structural Runtime Intelligence for Robust Autonomous Systems},
+      year = {2026},
+      version = {1.0.0},
+      url = {https://github.com/sizhet/Function-Tunnel-Intelligence-FTI},
+      doi = {TBD}
+    }
+
+After Zenodo archival, replace TBD with the final DOI.
+
+## License
+
+This repository is released under the Apache-2.0 License
+
+---
+
 ## 📚 DBM-SI Series Navigation
  
  See:\
