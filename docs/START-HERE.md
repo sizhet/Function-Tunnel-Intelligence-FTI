@@ -198,10 +198,10 @@ Because it suggests:
 ## 9. Suggested Reading Path
 
 #### Core Theory
-- FTI-GENERAL-DEFINITION-AND-SOCIAL-SCOPE.md
+- FTI-General-Definition-And-Social-Scope`.md
 
 #### Civilization / Recursive Perspective
-- RECURSIVE-FTI-AND-THE-GEOMETRY-OF-INTELLIGENCE.md
+- Recursive-FTI-And-The-Geometry-Of-Intelligence.md
 
 #### Figure System
 - FIGURE-INDEX.md

@@ -1,6 +1,5 @@
 # Function-Tunnel Intelligence (FTI)
-## A Structural Intelligence Framework for
-## Navigation, Civilization, Language, Evolution, and Autonomous Systems
+## A Structural Intelligence Framework for Navigation, Civilization, Language, Evolution, and Autonomous Systems
 
 Function-Tunnel Intelligence (FTI) studies how agents move through behavioral spaces under constraints, feedback, memory, reinforcement, and historical accumulation.
 
@@ -138,7 +137,7 @@ Instead, it gradually emerged through long-term engineering interaction with:
 - and behavioral stabilization problems.
 
 This observation is important.
-
+``
 Because it suggests:
 
 > The path toward deeper intelligence theories may not require mythical genius alone.\
@@ -152,9 +151,8 @@ The road toward structural intelligence may already exist beneath ordinary engin
 
     docs/
     ├── START-HERE.md
-    ├── FTI-GENERAL-DEFINITION-AND-SOCIAL-SCOPE.md
-    ├── RECURSIVE-FTI-AND-THE-GEOMETRY-OF-INTELLIGENCE.md
-    ├── LANGUAGE-AS-CIVILIZATION-TUNNEL.md
+    ├── FTI-General-Definition-And-Social-Scope.md
+    ├── Recursive-FTI-And-The-Geometry-Of-Intelligence.md
     ├── FIGURE-INDEX.md
     ├── VISUAL-LANGUAGE.md
     └── figures/
