@@ -17,6 +17,8 @@ Key message:
 > Exact paths break.\
 > Function-tunnels survive.
 
+---
+
 ## Fig-002 — Time-Series Curve Elastic IR in Function-Tunnel
 
     ./figures/Fig-002-Time-Series-Curve-Elastic-IR-in-Function-Tunnel.png
@@ -28,6 +30,8 @@ Illustrates:
 - and structural retrieval.
 
 Shows how noisy trajectories can still belong to the same tunnel.
+
+---
 
 ## Fig-003 — FTI Architecture
 
@@ -43,6 +47,8 @@ Includes:
 - policy stabilization,
 - runtime execution,
 - CCC anchors.
+
+---
 
 ## Fig-004 — Function-Tunnel Navigation (Drone Example)
 
@@ -62,6 +68,8 @@ Contrasts:
     vs.
 - elastic tunnel guidance.
 
+---
+
 ## Fig-005 — FTI Applications
 
     ./figures/Fig-005-FTI-Applications.png
@@ -74,6 +82,8 @@ Application landscape:
 - AI runtime governance,
 - AI coding,
 - industrial systems.
+
+---
 
 ## Fig-006 — Comparison of Linear vs Function-Tunnel
 
@@ -89,6 +99,8 @@ Shows:
 - runtime survivability,
 - and structural robustness.
 
+---
+
 ## Fig-007 — FTI Workflow (End-to-End Loop)
 
     ./figures/Fig-007-FTI-Workflow-(End-to-End-Loop).png
@@ -102,6 +114,7 @@ Full runtime loop:
 - adaptive execution,
 - structural stabilization.
 
+---
 
 ## Fig-008 - FTI Core Equation and Principle
 
@@ -119,6 +132,7 @@ Where:
 - P(.) = policy tunnel control
 - M(.) = motion / runtime execution
 
+---
 
 ## Fig-009 - Exactness Trap vs Tolerance Civilization
 
@@ -139,6 +153,8 @@ Right side:
 Caption:
 
 Structural tolerance scales more naturally than exactness.
+
+---
 
 ## Fig-010 - LLM High Water Mark and Structural Disentanglement
 
@@ -163,6 +179,8 @@ Caption:
 
 > From brute-force statistical intelligence to structural runtime intelligence.
 
+---
+
 ## Fig-011 - Behavioral Manifold vs Exact State Space
 
     ./figures/Fig-011-Behavioral-Manifold-vs-Exact-State-Space.png
@@ -176,6 +194,8 @@ vs.
 Caption:
 
 > Future intelligent systems may stabilize manifolds rather than exact states.
+
+---
 
 ## Fig-012 - FTI Runtime Civilization Stack
 
@@ -193,6 +213,8 @@ Layered architecture:
 Caption:
 
 > Toward structural runtime intelligence civilizations.
+
+---
 
 ## Fig-013 — Generalized FTI Universe
 
@@ -226,6 +248,8 @@ Periphery:
 This is the new "Universe Map." 
 
 It is of critical importance.
+
+---
 
 ## Fig-014 — Active vs Passive Function Tunnels
 
@@ -265,7 +289,9 @@ Tunnel Formation Mechanics
 
 This diagram will be highly viral.
 
-# Fig-015 — Path Dependence as Passive Tunnel
+---
+
+## Fig-015 — Path Dependence as Passive Tunnel
 
     ./figures/Fig-015-Path-Dependence-as-PassiveTunnel.png
 
@@ -285,11 +311,13 @@ This diagram enables:
 
 > readers of the social sciences to instantly grasp FTI.
 
+---
+
 ## Fig-016 — Language as Civilization-Scale Tunnel System
 
     ./figures/Fig-016-Language-as-Civilization-Scale-Tunnel-System.png
 
-####Multilayered Structure:
+#### Multilayered Structure:
 
 The Foundation:
 
@@ -318,6 +346,8 @@ Culminating in:
 
 This diagram possesses a profound intellectual impact.
 
+---
+
 ## Fig-017 — Communication Through Overlapping Tunnels
 
     ./figures/Fig-017-Communication-Through-Overlapping-Tunnels.png
@@ -341,6 +371,7 @@ This diagram could serve as:
 
 > One of the philosophical diagrams of FTI.
 
+---
 
 ## Fig-018 — Human Difference Trees and Everyday Tunnel Reasoning
 
