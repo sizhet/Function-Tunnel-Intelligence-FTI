@@ -33,7 +33,7 @@ Demonstrate:
     OUTSIDE tunnel
     
 ### See: 
-[../src/main/java/com/dbm/fti/elasticir/MVP-001—Elastic-Curve-Corridor-Matching-Demo.md](../src/main/java/com/dbm/fti/elasticir/MVP-001—Elastic-Curve-Corridor-Matching-Demo.md)
+[../src/main/java/com/dbm/fti/elasticir](../src/main/java/com/dbm/fti/elasticir)
 
 ---
 
@@ -60,7 +60,7 @@ vs.
     RECOVERED
 
 ### See: 
-[../src/main/java/com/dbm/fti/drone/MVP-002—Drone-Function-Tunnel-Navigation-Demo.md](../src/main/java/com/dbm/fti/drone/MVP-002—Drone-Function-Tunnel-Navigation-Demo.md)
+[../src/main/java/com/dbm/fti/drone](../src/main/java/com/dbm/fti/drone)
 
 ---
 
@@ -82,7 +82,7 @@ without:
 - exact synchronization.
 
 ### See: 
-[../src/main/java/com/dbm/fti/swarm/MVP-003—Swarm-Tunnel-Cohesion-Demo.md](../src/main/java/com/dbm/fti/swarm/MVP-003—Swarm-Tunnel-Cohesion-Demo.md)
+[../src/main/java/com/dbm/fti/swarm](../src/main/java/com/dbm/fti/swarm)
 
 ---
 
@@ -97,7 +97,7 @@ Demonstrate:
 - tunnel stabilization.
 
 ### See: 
-[../src/main/java/com/dbm/fti/runtime/MVP-004—LLM-Runtime-Tunnel-Stabilization-Demo.md](../src/main/java/com/dbm/fti/runtime/MVP-004—LLM-Runtime-Tunnel-Stabilization-Demo.md)
+[../src/main/java/com/dbm/fti/runtime](../src/main/java/com/dbm/fti/runtime)
 
 ---
 
