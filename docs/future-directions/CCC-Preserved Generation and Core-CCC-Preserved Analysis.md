@@ -23,8 +23,6 @@ rather than:
 
 This distinction is fundamental.
 
-![./figures/Fig-cpg001-CCC-Preserved-Generation-vs-Random-Mutation.png](figures/Fig-cpg001-CCC-Preserved-Generation-vs-Random-Mutation.png)
-
 A system may generate outputs that appear plausible while still silently destroying:
 
 - structural identity,
@@ -57,6 +55,8 @@ together with its dual process:
 #### Core-CCC-Preserved Analysis (CPA)
 
 These two processes may represent an important next step beyond the current LLM high-water mark.
+
+![./figures/Fig-cpg001-CCC-Preserved-Generation-vs-Random-Mutation.png](figures/Fig-cpg001-CCC-Preserved-Generation-vs-Random-Mutation.png)
 
 ## 2. The Core Observation
 
