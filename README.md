@@ -10,7 +10,7 @@ FTI began as a framework for:
 - behavioral routing,
 - and tunnel-guided optimization.
 
-![./docs/figures/Fig-009-Exactness-Trap-vs-Tolerance-Civilization.png](./docs/figures/Fig-009-Exactness-Trap-vs-Tolerance-Civilization.png)
+![./docs/figures/Fig-001-From-Exact-Path-to-Function-Tunnel.png](./docs/figures/Fig-001-From-Exact-Path-to-Function-Tunnel.png)
 
 However, the framework naturally generalizes far beyond engineered navigation systems.
 
