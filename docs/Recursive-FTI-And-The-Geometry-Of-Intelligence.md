@@ -103,6 +103,13 @@ This explains why nature is neither perfectly deterministic nor completely chaot
 
 ## 4. Civilization as Tunnel Formation
 
+                                                                                                                                                                                                                       
+--                                                                                                                                                                                                                     
+                                                                                                                                                                                                                       
+![./figures/Fig-011-Behavioral-Manifold-vs-Exact-State-Space.png](./figures/Fig-011-Behavioral-Manifold-vs-Exact-State-Space.png)                                                                             
+                                                                                                                                                                                                                       
+--                                                                                                                                                                                                                     
+
 Human civilization exhibits similar behavior.
 
 Across history, societies repeatedly rediscover:
@@ -229,6 +236,8 @@ In this view:
 - knowledge becomes compressed tunnel inheritance,
 - policy becomes tunnel shaping,
 - and reasoning becomes tunnel navigation.
+
+![./figures/Fig-012-FTI-Runtime-Civilization-Stack.png](./figures/Fig-012-FTI-Runtime-Civilization-Stack.png)
 
 ## 8. Recursive FTI
 

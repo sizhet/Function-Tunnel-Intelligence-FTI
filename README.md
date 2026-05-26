@@ -181,6 +181,10 @@ Focus:
 
 ---
 
+![./docs/figures/Fig-011-Behavioral-Manifold-vs-Exact-State-Space.png](./docs/figures/Fig-011-Behavioral-Manifold-vs-Exact-State-Space.png)
+
+---
+
 ![./docs/figures/Fig-002-Time-Series-Curve-Elastic-IR-in-Function-Tunnel.png](./docs/figures/Fig-002-Time-Series-Curve-Elastic-IR-in-Function-Tunnel.png)
 
 ---
