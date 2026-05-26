@@ -1,4 +1,4 @@
-# Recursive FTI and the Geometry of Intelligence -
+# Recursive FTI and the Geometry of Intelligence:
 ## Randomness, Civilization, Autonomous AI, and Tunnel Formation
 
 ## 1. Introduction
