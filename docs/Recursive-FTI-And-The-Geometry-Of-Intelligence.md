@@ -33,6 +33,8 @@ Under this perspective:
 
 but long-term structural evolution becomes increasingly shaped by tunnel formation.
 
+![./figures/Fig-013-Generalized-FTI-Universe.png](./figures/Fig-013-Generalized-FTI-Universe.png)
+
 ## 2. Local Randomness vs Global Tunnel Formation
 
 One of the central ideas of generalized FTI is the distinction between:

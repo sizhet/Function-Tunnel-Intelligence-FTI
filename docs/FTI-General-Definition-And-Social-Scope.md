@@ -25,6 +25,8 @@ Under this broader interpretation:
 
 This broader view transforms FTI from a specialized engineering concept into a general framework for analyzing non-random behavioral processes across nature, society, and intelligence systems.
 
+![./figures/Fig-013-Generalized-FTI-Universe.png](./figures/Fig-013-Generalized-FTI-Universe.png)
+
 ## 2. General Definition of FTI
 
 A system belongs to the scope of Function-Tunnel Intelligence if it contains:
