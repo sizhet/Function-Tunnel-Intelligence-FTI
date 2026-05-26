@@ -10,6 +10,8 @@ FTI began as a framework for:
 - behavioral routing,
 - and tunnel-guided optimization.
 
+![./docs/figures/Fig-009-Exactness-Trap-vs-Tolerance-Civilization.png](./docs/figures/Fig-009-Exactness-Trap-vs-Tolerance-Civilization.png)
+
 However, the framework naturally generalizes far beyond engineered navigation systems.
 
 FTI also applies to:
@@ -57,6 +59,8 @@ This applies to:
 |AI Systems	|Optimization and coordination corridors
 |Science	|Research convergence
 
+![./docs/figures/Fig-013-Generalized-FTI-Universe.png](./docs/figures/Fig-013-Generalized-FTI-Universe.png)
+
 ## Core FTI Perspective
 
 Under generalized FTI:
@@ -88,6 +92,8 @@ Under FTI:
 
 > Language does not merely describe tunnels.\
 > Language itself forms tunnels.
+
+![./docs/figures/Fig-016-Language-as-Civilization-Scale-Tunnel-System.png](./docs/figures/Fig-016-Language-as-Civilization-Scale-Tunnel-System.png)
 
 ## Recursive FTI
 
@@ -121,6 +127,8 @@ This perspective connects:
 - trajectory systems,
 - policy systems,
 - and autonomous AI coordination.
+
+![./docs/figures/Fig-012-FTI-Runtime-Civilization-Stack.png](./docs/figures/Fig-012-FTI-Runtime-Civilization-Stack.png)
 
 ## The Importance of Structural Observation
 
@@ -171,6 +179,16 @@ Focus:
 - tunnel guidance,
 - runtime mechanics.
 
+---
+
+![./docs/figures/Fig-002-Time-Series-Curve-Elastic-IR-in-Function-Tunnel.png](./docs/figures/Fig-002-Time-Series-Curve-Elastic-IR-in-Function-Tunnel.png)
+
+---
+
+![./docs/figures/Fig-009-Exactness-Trap-vs-Tolerance-Civilization.png](./docs/figures/Fig-009-Exactness-Trap-vs-Tolerance-Civilization.png)
+
+---
+
 ### Phase II — Generalized Civilization-Scale FTI
 
 (Fig-013 ~ Fig-018)
@@ -183,6 +201,16 @@ Focus:
 - path dependence,
 - recursive FTI,
 - tunnel formation across intelligence systems.
+
+---
+
+![./docs/figures/Fig-014-Active-vs-Passive-Function-Tunnels.png](./docs/figures/Fig-014-Active-vs-Passive-Function-Tunnels.png)
+
+---
+
+![./docs/figures/Fig-018-Human-Difference-Trees-and-Everyday-Tunnel-Reasoning.png](./docs/figures/Fig-018-Human-Difference-Trees-and-Everyday-Tunnel-Reasoning.png)
+
+---
 
 ## Relationship to DBM-SI
 
