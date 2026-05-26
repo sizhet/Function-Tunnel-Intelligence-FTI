@@ -1,6 +1,5 @@
 cff-version: 1.2.0
 title: "Function-Tunnel Intelligence (FTI): Elastic Structural Runtime Intelligence for Robust Autonomous Systems"
-message: "If you use this repository or its concepts, please cite this work."
 type: software
 
 authors:
@@ -8,35 +7,41 @@ authors:
     given-names: Sizhe
     affiliation: Independent Researcher
 
-abstract: >-
-  Function-Tunnel Intelligence (FTI) introduces an elastic structural runtime
-  intelligence paradigm for robust autonomous systems. Instead of requiring
-  exact path-following, exact synchronization, or rigid trajectory matching,
-  FTI proposes that intelligent systems should remain inside acceptable
-  structural function-tunnels. The framework combines Time-Series Curve
-  Elastic IR, function-tunnel navigation, behavioral manifold stabilization,
-  policy tunnel governance, and structural corridor matching. Applications
-  include low-cost drone navigation, robotics, swarm systems, AI runtime
-  governance, structural AI coding, and post-LLM control-plane design.
+message: >
+  If you use this repository, figures, runtime concepts,
+  or future-direction frameworks such as CCC-Preserved
+  Generation (CPG) or Core-CCC-Preserved Analysis (CPA),
+  please cite this work.
+
+abstract: >
+  Function Tunnel Intelligence (FTI) investigates
+  structurally feasible evolution, tunnel-constrained
+  derivation, and CCC-preserved transformation.
+  The repository includes trajectory-oriented
+  structural intelligence frameworks, preservation-aware
+  runtime concepts, and future directions such as
+  CCC-Preserved Generation (CPG) and Core-CCC-Preserved
+  Analysis (CPA), exploring future AI systems beyond
+  purely probabilistic continuation models.
 
 keywords:
-  - Function-Tunnel Intelligence
+  - Function Tunnel Intelligence
   - FTI
-  - Elastic Structural Intelligence
-  - Function-Tunnel Navigation
-  - Time-Series Curve Elastic IR
-  - Autonomous Systems
-  - Robotics
-  - Swarm Intelligence
-  - Runtime Governance
-  - Policy Tunnel
-  - Behavioral Manifold
-  - Structural Intelligence
   - DBM-SI
-  - PDS
-  - CCC
+  - Structural Intelligence
+  - CCC-Preserved Generation
+  - Core-CCC-Preserved Analysis
+  - Structural Preservation
+  - Evolution Tunnel
+  - Trajectory Intelligence
+  - AI Coding
+  - CGCCC
+  - Preservation-Aware Generation
+  - Policy-Preserved Derivation
+  - Structural Evolution
+  - Autonomous Structural Intelligence"
 
-license: MIT
+license: Apache-2.0 License
 repository-code: "https://github.com/sizhet/Function-Tunnel-Intelligence-FTI"
 url: "https://github.com/sizhet/Function-Tunnel-Intelligence-FTI"
 date-released: 2026-05-24
