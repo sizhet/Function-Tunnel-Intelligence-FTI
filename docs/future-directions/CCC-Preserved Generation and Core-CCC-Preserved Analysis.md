@@ -23,7 +23,7 @@ rather than:
 
 This distinction is fundamental.
 
-![./figures/Fig-001-CCC-Preserved-Generation-vs-Random-Mutation.png](./figures/Fig-001-CCC-Preserved-Generation-vs-Random-Mutation.png)
+![./figures/Fig-cpg001-CCC-Preserved-Generation-vs-Random-Mutation.png](figures/Fig-cpg001-CCC-Preserved-Generation-vs-Random-Mutation.png)
 
 A system may generate outputs that appear plausible while still silently destroying:
 
@@ -184,7 +184,7 @@ Or equivalently:
 |CPG	|Structure-preserving expansion
 |CPA	|Structure-preserving compression
 
-![./figures/Fig-002-Rhe-CPG-CPA-Duality-Loop.png](./figures/Fig-002-Rhe-CPG-CPA-Duality-Loop.png)
+![./figures/Fig-cpg002-Rhe-CPG-CPA-Duality-Loop.png](figures/Fig-cpg002-Rhe-CPG-CPA-Duality-Loop.png)
 
 This creates a closed-loop structural intelligence system:
 
@@ -202,7 +202,7 @@ This loop may represent an important future architecture for structural AI syste
 
 ## 6. Proposed Structural Equations
 
-![./figures/Fig-005-The-Structural-Preservation-Field.png](./figures/Fig-005-The-Structural-Preservation-Field.png)
+![./figures/Fig-cpg005-The-Structural-Preservation-Field.png](figures/Fig-cpg005-The-Structural-Preservation-Field.png)
 
 ### 6.1 CCC-Preserved Generation
 
@@ -259,7 +259,7 @@ Meaning:
 
 ## 7. Relationship to Function Tunnel Intelligence (FTI)
 
-![./figures/Fig-003-FTI-as-CCC-Preserved-Evolution-Tunnel.png](./figures/Fig-003-FTI-as-CCC-Preserved-Evolution-Tunnel.png)
+![./figures/Fig-cpg003-FTI-as-CCC-Preserved-Evolution-Tunnel.png](figures/Fig-cpg003-FTI-as-CCC-Preserved-Evolution-Tunnel.png)
 
 FTI already implicitly contains this idea.
 
@@ -352,7 +352,7 @@ Future directions may include:
 
 ### 10.1 CCC Extraction
 
-![./figures/Fig-006-Rewrite-as-Gradient-Descent-Toward-CCC.png](./figures/Fig-006-Rewrite-as-Gradient-Descent-Toward-CCC.png)
+![./figures/Fig-cpg006-Rewrite-as-Gradient-Descent-Toward-CCC.png](figures/Fig-cpg006-Rewrite-as-Gradient-Descent-Toward-CCC.png)
 
 Recovering:
 
@@ -375,7 +375,7 @@ Defining:
 
 ### 10.3 AI Coding
 
-![./figures/Fig-004-AI-Coding-Under-CPG-and-CPA-Framework.png](./figures/Fig-004-AI-Coding-Under-CPG-and-CPA-Framework.png)
+![./figures/Fig-cpg004-AI-Coding-Under-CPG-and-CPA-Framework.png](figures/Fig-cpg004-AI-Coding-Under-CPG-and-CPA-Framework.png)
 
 Applications include:
 
@@ -386,7 +386,7 @@ Applications include:
 - certified rewrites,
 - and autonomous repair.
 
-![./figures/Fig-007-Unconnected-Subgraph-Connection-Intelligence.png](./figures/Fig-007-Unconnected-Subgraph-Connection-Intelligence.png)
+![./figures/Fig-cpg007-Unconnected-Subgraph-Connection-Intelligence.png](figures/Fig-cpg007-Unconnected-Subgraph-Connection-Intelligence.png)
 
 ### 10.4 Evolutionary Systems
 
