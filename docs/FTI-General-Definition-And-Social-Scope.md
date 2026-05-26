@@ -148,6 +148,8 @@ Thus:
 
 ## 4. Active and Passive Function Tunnels
 
+![./figures/Fig-014-Active-vs-Passive-Function-Tunnels.png](./figures/Fig-014-Active-vs-Passive-Function-Tunnels.png)
+
 FTI includes both:
 
 ### A) Active Tunnels
@@ -197,6 +199,8 @@ This distinction is critical.
 Many civilization-scale systems are passive FTI systems.
 
 ## 5. Path Dependence as Passive Function Tunnel
+
+![./figures/Fig-015-Path-Dependence-as-PassiveTunnel.png](./figures/Fig-015-Path-Dependence-as-PassiveTunnel.png)
 
 Traditional social science often describes "path dependence" as:
 
@@ -302,6 +306,8 @@ This explains why:
 - and technological monopolies emerge.
 
 ## 9. Language as a Civilization-Scale Function Tunnel
+
+![./figures/Fig-016-Language-as-Civilization-Scale-Tunnel-System.png](./figures/Fig-016-Language-as-Civilization-Scale-Tunnel-System.png)
 
 Humans often regard language as merely a communication tool.
 
@@ -461,6 +467,8 @@ Under this broader view:
 - and civilization becomes a large-scale interacting network of linguistic and behavioral tunnels.
 
 ## 10. Difference Trees and Human Understanding
+
+![./figures/Fig-018-Human-Difference-Trees-and-Everyday-Tunnel-Reasoning.png](./figures/Fig-018-Human-Difference-Trees-and-Everyday-Tunnel-Reasoning.png)
 
 For readers outside mathematical modeling or AI engineering, FTI may initially appear abstract.
 

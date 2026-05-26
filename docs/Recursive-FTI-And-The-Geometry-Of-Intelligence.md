@@ -139,6 +139,8 @@ Thus:
 
 ## 5. Path Dependence and Structural Inertia
 
+![./figures/Fig-015-Path-Dependence-as-PassiveTunnel.png](./figures/Fig-015-Path-Dependence-as-PassiveTunnel.png)
+
 Many historical systems become difficult to escape once stabilized.
 
 Examples include:
