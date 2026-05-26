@@ -198,186 +198,172 @@ Caption:
 
     ./figures/Fig-013-Generalized-FTI-Universe.png
     
-核心图。
+Core:
 
-内容：
+- FTI
 
-中心：
+Outward Diffusion:
 
-FTI
+- Biological FTI
+- Social FTI
+- Historical FTI
+- Legal FTI
+- Technological FTI
+- AI / Structural Intelligence FTI
+- Linguistic FTI
+- Civilizational FTI
 
-向外扩散：
+Periphery:
 
-Biological FTI
-Social FTI
-Historical FTI
-Legal FTI
-Technology FTI
-AI / Structural Intelligence FTI
-Language FTI
-Civilization FTI
+- Agents
+- Behavioral Space
+- Trajectory
+- Feedback
+- Tunnel Formation
+- Path Dependence
+- MET Pressure
 
-外围：
+This is the new "Universe Map." 
 
-agents
-behavioral space
-trajectory
-feedback
-tunnel formation
-path dependence
-MET pressure
-
-这是新的“Universe Map”。
-
-非常重要。
+It is of critical importance.
 
 ## Fig-014 — Active vs Passive Function Tunnels
 
     ./figures/Fig-014-Active-vs-Passive-Function-Tunnels.png
 
-左边：
+Left:
 
 Active Tunnel
 
-navigation
-robotics
-optimization
-AI planning
-autonomous systems
+- Navigation
+- Robotics
+- Optimization
+- AI Planning
+- Autonomous Systems
 
-右边：
+Right:
 
 Passive Tunnel
 
-law
-morality
-institutions
-culture
-language
-civilization inertia
-technological lock-in
+- Law
+- Morality
+- Institutions
+- Culture
+- Language
+- Civilization Inertia
+- Technological Lock-in
 
-中间：
+Center:
 
 Tunnel Formation Mechanics
 
-feedback
-memory
-selection
-constraint
-reinforcement
+- Feedback
+- Memory
+- Selection
+- Constraint
+- Reinforcement
 
-这个图会非常有传播力。
+This diagram will be highly viral.
 
 # Fig-015 — Path Dependence as Passive Tunnel
 
     ./figures/Fig-015-Path-Dependence-as-PassiveTunnel.png
 
-这个很关键。
+Historical trajectories gradually converge to form:
 
-内容：
+- sunk cost walls
+- institutional inertia
+- social reinforcement
+- economic lock-in
+- MET pressure
 
-历史轨迹逐渐收敛形成：
+Ultimately resulting in:
 
-sunk cost walls
-institutional inertia
-social reinforcement
-economic lock-in
-MET pressure
+- a stable tunnel corridor.
 
-最后形成：
+This diagram enables:
 
-stable tunnel corridor。
+> readers of the social sciences to instantly grasp FTI.
 
-这张图会让：
-
-社会科学读者瞬间理解 FTI。
-
-# Fig-016 — Language as Civilization-Scale Tunnel System
+## Fig-016 — Language as Civilization-Scale Tunnel System
 
     ./figures/Fig-016-Language-as-Civilization-Scale-Tunnel-System.png
 
-这个会成为明星图。
+####Multilayered Structure:
 
-建议：
+The Foundation:
 
-多层结构：
+- Reality / Behavior / Collective Experience
 
-底层：
+The Intermediate Layer:
 
-Reality / Behavior / Collective Experience
+- Compressed Concepts / Naming / Words / Institutions
 
-中层：
+The Upper Layer:
 
-compressed concepts / naming / words / institutions
+- Civilization Coordination
 
-上层：
+Further Superimpositions:
 
-civilization coordination
+- Law
+- Science
+- Culture
+- AI Tokens
+- Software Naming
+- Education
 
-再叠加：
+Culminating in:
 
-law
-science
-culture
-AI tokens
-software naming
-education
+> The Language Tunnel Network.
 
-最后形成：
-
-Language Tunnel Network。
-
-这张图非常有思想冲击力。
+This diagram possesses a profound intellectual impact.
 
 ## Fig-017 — Communication Through Overlapping Tunnels
 
     ./figures/Fig-017-Communication-Through-Overlapping-Tunnels.png
 
-这个会很美。
+Two Agents. Each possesses:
 
-两个 agent：
+- A Memory Tunnel
+- A Language Tunnel
+- A Culture Tunnel
+- An Expectation Tunnel
 
-各自有：
+The Overlapping Region in the Center:
 
-memory tunnel
-language tunnel
-culture tunnel
-expectation tunnel
+- Communication succeeds.
 
-中间 overlapping region：
+- No Overlap:
 
-communication succeeds。
+- Misunderstanding / Civilizational Drift.
 
-无 overlap：
+This diagram could serve as:
 
-misunderstanding / civilization drift。
+> One of the philosophical diagrams of FTI.
 
-这张图可以成为：
-
-FTI 的哲学图之一。
 
 ## Fig-018 — Human Difference Trees and Everyday Tunnel Reasoning
 
     ./figures/Fig-018-Human-Difference-Trees-and-Everyday-Tunnel-Reasoning.png
+    
+This figure is particularly well-suited for non-technical readers.
 
-这个特别适合非技术读者。
+It translates concepts such as:
 
-把：
+- career paths
+- legal risks
+- social mobility
+- educational choices
+- political alignments
+- technological adoption
 
-career path
-legal risk
-social mobility
-education choices
-political alignment
-technological adoption
+into:
 
-画成：
+> a "Difference Tree"—a structure that humans utilize naturally.
 
-人类天然使用的 Difference Tree。
+Ultimately, this points to the conclusion that:
 
-最后指向：
+> "Humans already reason through implicit tunnel systems."
 
-“Humans already reason through implicit tunnel systems.”
+This will significantly lower the barrier to understanding the underlying theory.
 
-这会极大降低理论门槛。
