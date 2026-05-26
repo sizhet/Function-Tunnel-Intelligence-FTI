@@ -1,228 +1,140 @@
-# START HERE — Understanding Function-Tunnel Intelligence (FTI)
+# START HERE — Function Tunnel Intelligence (FTI)
 
-Welcome to the Function-Tunnel Intelligence (FTI) project.
+Welcome to the Function Tunnel Intelligence (FTI) repository.
 
-This repository explores a simple but powerful idea:
-
-> Many complex systems evolve not through pure randomness,\
-> but through the gradual formation of reusable tunnels.
-
-These tunnels appear across:
-
-- biology,
-- civilization,
-- language,
-- technology,
-- AI systems,
-- and human behavior.
-
-FTI studies these tunnel structures.
-
-## 1. What Is a Function Tunnel?
-
-A function tunnel is a repeatedly reinforced behavioral corridor inside a larger possibility space.
-
-Examples include:
-
-- animal migration paths,
-- legal systems,
-- engineering standards,
-- software ecosystems,
-- language conventions,
-- scientific traditions,
-- optimization pipelines,
-- and AI coordination structures.
-
-A tunnel forms when:
-
-- certain trajectories repeatedly succeed,
-- reinforcement accumulates,
-- coordination stabilizes,
-- and deviation becomes increasingly expensive.
-
-## 2. Why FTI Matters
-
-FTI provides a middle perspective between:
-
-- pure randomness,
-- and centralized intelligent design.
-
-Many systems are neither completely chaotic nor fully planned.
-
-Instead:
-
-- repeated behavior,
-- memory,
-- feedback,
-- constraints,
-- and historical reinforcement
-
-gradually shape stable trajectories.
-
-This explains why:
-
-- civilizations repeatedly rediscover similar structures,
-- technologies become locked-in,
-- institutions resist change,
-- and evolution repeatedly converges toward similar solutions.
-
-## 3. Active and Passive Tunnels
-
-FTI studies both:
-
-### Active Tunnels
-
-Intentionally guided systems:
-
-- navigation,
-- robotics,
-- AI planning,
-- optimization systems,
-- policy control systems.
-
-### Passive Tunnels
-
-Historically stabilized systems:
-
-- language,
-- law,
-- culture,
-- institutions,
-- industrial ecosystems,
-- social norms,
-- civilization inertia.
-
-This distinction is fundamental.
-
-Much of civilization operates through passive tunnel systems.
-
-## 4. Language as Tunnel Infrastructure
-
-Language is not merely communication.
-
-Language also stabilizes civilization-scale tunnels.
-
-Words compress:
-
-- memory,
-- behavior,
-- social expectation,
-- legal meaning,
--- and collective experience.
-
-Under FTI:
-
-> Language does not merely describe tunnels.\
-> Language itself forms tunnels.
-
-## 5. Why Nature Is Not Completely Random
-
-Evolution contains randomness.
-
-However, evolution also contains:
-
-- constraints,
-- reinforcement,
-- survival pressure,
-- and recurring attractors.
-
-FTI interprets evolution as:
-
-> partially random exploration inside tunnel-constrained landscapes.
-
-This helps explain why:
-
-- similar biological structures repeatedly emerge,
-- civilizations repeatedly converge,
-- and technological ecosystems stabilize over time.
-
-## 6. Autonomous AI and Tunnel Formation
-
-Future autonomous AI systems may also develop tunnel structures.
-
-Any sufficiently advanced intelligence system must still manage:
-
-- coordination,
-- memory,
-- optimization,
-- trust,
-- policy,
-- and survivability.
-
-Thus:
-
-> Autonomous intelligence systems may converge toward reusable structural tunnels rather than remaining infinitely chaotic.
-
-## 7. Recursive FTI
-
-One of the most surprising aspects of generalized FTI is recursion.
-
-FTI eventually begins explaining:
-
-- scientific convergence,
-- research trajectories,
-- theory formation,
-- and even the emergence of FTI itself.
-
-In other words:
-
-> Theories themselves may emerge through tunnel formation.
-
-## 8. Structural Observation vs Genius Myth
-
-Civilization often explains major ideas through stories of isolated genius.
-
-FTI suggests a different interpretation.
-
-Many important ideas may emerge gradually through:
-
-- sustained engineering exposure,
-- recursive refinement,
-- structural observation,
-- and long-term interaction with reality-constrained systems.
-
-FTI itself emerged through repeated interaction with:
-
-- trajectories,
-- metric structures,
-- naming systems,
-- policy systems,
-- and recursive coordination problems.
-
-This point is important for readers.
-
-Because it suggests:
-
-> The road toward structural intelligence may already exist beneath ordinary engineering practice.
-
-## 9. Suggested Reading Path
-
-#### Core Theory
-- FTI-General-Definition-And-Social-Scope`.md
-
-#### Civilization / Recursive Perspective
-- Recursive-FTI-And-The-Geometry-Of-Intelligence.md
-
-#### Figure System
-- FIGURE-INDEX.md
-
-#### Visual Interpretation
-- VISUAL-LANGUAGE.md
-
-## 10. Final Perspective
-
-FTI began as a framework for navigation and trajectory analysis.
-
-It gradually expanded into a broader structural framework for understanding:
+This repository explores a structural intelligence perspective on:
 
 - evolution,
-- civilization,
-- language,
-- intelligence,
-- scientific convergence,
-- and autonomous systems.
+- trajectory reasoning,
+- tunnel-constrained derivation,
+- structural preservation,
+- AI coding,
+- and future autonomous intelligence systems.
 
-Under this broader perspective:
+The central idea is:
 
-> Intelligence does not eliminate randomness.\
-> Intelligence organizes randomness into reusable tunnels.
+> Not all mutations are feasible.
+>
+> Stable evolution tends to occur inside structurally preserved functional tunnels.
+
+FTI investigates how systems may navigate:
+
+- feasible evolutionary paths,
+- structural stability regions,
+- preservation-aware derivation spaces,
+- and tunnel-constrained transformations.
+
+---
+
+# Recommended Reading Order
+
+## 1. Core FTI Overview
+
+Start with:
+
+    README.md
+
+This provides:
+
+the motivation,
+canonical diagrams,
+and overall FTI architecture.
+
+## 2. Canonical Figures
+
+See:
+
+    docs/FIGURE-INDEX.md
+
+and:
+
+    docs/figures/
+
+These figures define the stable visual language of the repository.
+
+## 3. Future Directions
+
+The repository also includes exploratory future directions:
+
+    docs/future-directions/
+
+These directions investigate:
+
+- structural preservation,
+- CCC-preserved derivation,
+- policy-preserved evolution,
+- and structural intelligence beyond current probabilistic AI systems.
+
+Important future-direction documents include:
+
+    CCC-Preserved-Generation-and-Core-CCC-Preserved-Analysis.md
+    The-Next-Step-Beyond-the-LLM-High-Water-Mark.md
+
+## CCC-Preserved Generation (CPG)
+
+One important future direction proposed in this repository is:
+
+### CCC-Preserved Generation (CPG)
+
+together with its dual process:
+
+### Core-CCC-Preserved Analysis (CPA)
+
+These directions investigate:
+
+    Analyze
+    → Preserve
+    → Generate
+    → Re-analyze
+    → Validate
+
+rather than:
+
+    generate-many-and-hope
+
+This may represent a future structural-generation framework beyond purely probabilistic continuation systems.
+
+## MVP Runtime
+
+A minimal preservation-oriented runtime MVP is included under:
+
+    mvp/cpg-cpa-mvp-v0.1/
+
+The MVP demonstrates:
+
+- CCC extraction,
+- policy extraction,
+- structure-preserved derivation,
+- preservation validation,
+- and rewrite decision loops.
+
+## Visual Language
+
+This repository uses a unified structural-intelligence visual language involving:
+
+- tunnels,
+- trajectories,
+- preservation fields,
+- CCC attractors,
+- rewrite gradients,
+- and structural manifolds.
+
+Exploratory figure packs are intentionally separated from canonical figures in order to support future theory evolution and modular DOI expansion.
+
+## Current Status
+
+The repository currently contains:
+
+- conceptual theory,
+- runtime skeletons,
+- figure systems,
+- future-direction explorations,
+- and preservation-oriented generation frameworks.
+
+The project is intentionally exploratory and directional.
+
+Its primary goal is:
+
+> to investigate future structural intelligence architectures beyond brute-force probabilistic generation systems.
+
+
