@@ -333,7 +333,7 @@ Under this broader perspective:
       year = {2026},
       version = {1.0.0},
       url = {https://github.com/sizhet/Function-Tunnel-Intelligence-FTI},
-      doi = {TBD}
+      doi = {10.5281/zenodo.20405641}
     }
 
 ## License
