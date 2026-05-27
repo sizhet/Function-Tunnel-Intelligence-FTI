@@ -54,7 +54,7 @@
 18. SQL-SI - SQL as a Structural Intelligence Backend \
     Repository: https://github.com/sizhet/SQL-SI
     
-19. PDS General Algorithmic Form - Structural Intelligence Framework for Decision Systems 
+19. PDS General Algorithmic Form - Structural Intelligence Framework for Decision Systems \
     Repository: https://github.com/sizhet/PDS-General-Algorithmic-Form
     
 20. CGCCC-For-AI-Coding - A structural-intelligence path branch for CCC path extraction, preserved-path validation, profile-aware campaign dynamics, field-map semantics, and empirical poster-ready figure systems   
