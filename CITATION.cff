@@ -1,5 +1,13 @@
 cff-version: 1.2.0
+
 title: "Function-Tunnel Intelligence (FTI): Elastic Structural Runtime Intelligence for Robust Autonomous Systems"
+
+message: >
+  If you use this repository, figures, runtime concepts,
+  or future-direction frameworks such as CCC-Preserved
+  Generation (CPG) or Core-CCC-Preserved Analysis (CPA),
+  please cite this work.
+
 type: software
 
 authors:
@@ -7,11 +15,7 @@ authors:
     given-names: Sizhe
     affiliation: Independent Researcher
 
-message: >
-  If you use this repository, figures, runtime concepts,
-  or future-direction frameworks such as CCC-Preserved
-  Generation (CPG) or Core-CCC-Preserved Analysis (CPA),
-  please cite this work.
+repository-code: "https://github.com/sizhet/Function-Tunnel-Intelligence-FTI"
 
 abstract: >
   Function Tunnel Intelligence (FTI) investigates
@@ -39,10 +43,13 @@ keywords:
   - Preservation-Aware Generation
   - Policy-Preserved Derivation
   - Structural Evolution
-  - Autonomous Structural Intelligence"
+  - Autonomous Structural Intelligence
 
 license: Apache-2.0 License
-repository-code: "https://github.com/sizhet/Function-Tunnel-Intelligence-FTI"
+
 url: "https://github.com/sizhet/Function-Tunnel-Intelligence-FTI"
-date-released: 2026-05-24
+
+date-released: 2026-05-26
+
 version: "1.0.0"
+
