@@ -11,16 +11,6 @@ Demonstrate:
 - corridor membership,
 - and tunnel scoring.
 
-### Suggested Structure
-
-    fti-demo-elastic-ir/
-    ├── ElasticCurve.java
-    ├── TunnelEstimator.java
-    ├── CurveSimilarityEngine.java
-    ├── TunnelVisualizationPrinter.java
-    ├── ElasticIrDemoMain.java
-    └── README.md
-
 ### Key Output
 
     Trajectory A:
@@ -31,8 +21,8 @@ Demonstrate:
     
     Trajectory C:
     OUTSIDE tunnel
-    
-### See: 
+
+### Java Code  
 [../src/main/java/com/dbm/fti/elasticir](../src/main/java/com/dbm/fti/elasticir)
 
 ---
@@ -59,7 +49,7 @@ vs.
     Function-Tunnel:
     RECOVERED
 
-### See: 
+### Java Code  
 [../src/main/java/com/dbm/fti/drone](../src/main/java/com/dbm/fti/drone)
 
 ---
@@ -81,7 +71,7 @@ Agents remain:
 without:
 - exact synchronization.
 
-### See: 
+### Java Code 
 [../src/main/java/com/dbm/fti/swarm](../src/main/java/com/dbm/fti/swarm)
 
 ---
@@ -96,7 +86,7 @@ Demonstrate:
 - runtime correction,
 - tunnel stabilization.
 
-### See: 
+### Java Code  
 [../src/main/java/com/dbm/fti/runtime](../src/main/java/com/dbm/fti/runtime)
 
 ---
