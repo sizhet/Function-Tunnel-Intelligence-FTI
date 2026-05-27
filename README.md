@@ -157,13 +157,84 @@ The road toward structural intelligence may already exist beneath ordinary engin
 
 ## Repository Structure
 
-    docs/
-    ├── START-HERE.md
-    ├── FTI-General-Definition-And-Social-Scope.md
-    ├── Recursive-FTI-And-The-Geometry-Of-Intelligence.md
-    ├── FIGURE-INDEX.md
-    ├── VISUAL-LANGUAGE.md
-    └── figures/
+    Function-Tunnel-Intelligence-FTI/
+    │
+    ├── README.md
+    ├── LICENSE
+    ├── .zenodo.json
+    ├── CITATION.cff
+    │
+    ├── docs/
+    │   │
+    │   ├── START-HERE.md
+    │   ├── FIGURE-INDEX.md
+    │   ├── VISUAL-LANGUAGE.md
+    │   │
+    │   ├── figures/                     ← Canonical FTI figures
+    │   │
+    │   ├── future-directions/
+    │   │   ├── CCC-Preserved-Generation-and-Core-CCC-Preserved-Analysis.md
+    │   │   ├── The-Next-Step-Beyond-the-LLM-High-Water-Mark.md
+    │   │   ├── figure-index.md
+    │   │   │
+    │   │   └── figures/
+    │   │       ├── CPG-Fig-001-CCC-Preserved-Generation-vs-Random-Mutation.png
+    │   │       ├── CPG-Fig-002-The-CPG-CPA-Duality-Loop.png
+    │   │       ├── CPG-Fig-003-FTI-as-CCC-Preserved-Evolution-Tunnel.png
+    │   │       ├── ...
+    │   │
+    │   ├── runtime/
+    │   ├── theory/
+    │   ├── applications/
+    │   └── notes/
+    │
+    ├── mvp/
+    │   └── cpg-cpa-mvp-v0.1/
+    │
+    ├── src/
+    │
+    └── target/
+
+---
+
+## Future Directions
+
+Beyond the current Function Tunnel Intelligence (FTI) runtime and trajectory framework, this repository also explores several forward-looking structural intelligence directions under:
+
+    docs/future-directions/
+
+These exploratory directions are intentionally separated from the canonical FTI core architecture in order to preserve long-term figure stability, conceptual clarity, and future DOI modularization.
+
+Current future-direction topics include:
+
+|Topic	|Description |
+|---|---|
+|CCC-Preserved Generation (CPG)	|Structure-preserving derivation under CCC constraints
+|Core-CCC-Preserved Analysis (CPA)	|Recovering core CCC and policy structures from complex systems
+|Beyond the LLM High Water Mark	|Structural intelligence beyond probabilistic continuation
+|Structural Preservation Intelligence	|Explicit preservation-aware generation and evolution
+|Connection Intelligence of Unconnected Subgraphs	|Historical bridge intelligence for calling graph evolution
+
+These directions investigate a broader hypothesis:
+
+> Intelligence may not fundamentally be arbitrary generation.
+
+> Intelligence may instead be:
+
+> structure-preserving derivation under changing constraints.
+
+The repository now includes:
+
+- conceptual documents,
+- figure packs,
+- preservation-oriented runtime MVPs,
+- and future structural-generation research directions.
+
+See:
+
+    docs/future-directions/
+
+for details.
 
 ## Figure System
 
